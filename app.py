@@ -112,6 +112,8 @@ def hello():
         'predictedoutput': new_output[0]/100
         # 'accuracy': result,
         }
-        return  jsonify(freqs)         # which returns "hello world"
+        return  jsonify(freqs)  
+        # username = request.args.get('username')
+        # password = request.args.get('password')       # which returns "hello world"
 if __name__ == "__main__":        # on running python app.py
     app.run()                     # run the flask app
