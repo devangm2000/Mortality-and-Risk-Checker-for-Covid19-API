@@ -1,0 +1,711 @@
+sex,age,height,weight,income,smoking,alcohol,contacts_count,house_count,working,rate_reducing_mask,covid19_symptoms,covid19_contact,asthma,lung_disease,health_worker,risk_infection,risk_mortality
+female,43,158,134,med,never,0,4,4,stopped,4,0,0,1,0,0,27,0.889
+male,37,166,62,low,yes,9,2,3,stopped,4,0,0,0,0,0,20,0.5
+female,25,176,74,low,never,0,5,2,stopped,4,0,0,0,0,0,28.999,10.367
+female,38,172,90,low,never,10,10,2,travel critical,4,0,0,0,0,0,54,6.548
+female,43,164,86,high,never,0,11,8,stopped,3,0,0,0,0,0,49,0.5
+female,40,170,98,high,never,3,6,4,stopped,4,0,0,1,0,0,32,1.716
+male,21,180,124,med,never,0,6,2,stopped,5,0,0,0,0,0,31,9.5
+female,36,154,52,high,never,0,2,4,never,4,0,0,0,0,0,20,7.269
+female,60,174,96,med,never,0,2,3,never,4,0,0,0,0,0,20,13.622
+female,20,178,128,low,never,4,6,1,stopped,4,0,0,0,0,0,32,0.5
+female,22,168,78,low,yes,0,13,1,travel critical,4,0,1,0,0,1,80,0.5
+female,42,176,64,high,quit,0,2,2,never,4,0,0,0,0,0,20,2.125
+female,52,162,70,high,never,0,21,1,travel critical,4,0,0,1,0,1,87,1.118
+male,38,174,82,high,never,12,21,2,never,4,0,0,0,0,1,77,0.5
+female,64,158,68,med,never,0,2,3,never,4,0,0,0,1,0,18,13.122
+female,43,170,98,med,never,5,10,3,travel critical,4,0,0,0,0,1,54,0.5
+female,40,166,54,med,never,0,5,5,never,5,0,0,0,0,0,27,0.5
+female,49,156,122,high,never,7,3,2,never,4,0,0,0,0,0,23,0.5
+male,38,164,80,high,never,2,5,4,travel critical,4,0,0,0,0,0,39,0.5
+male,55,180,122,high,never,0,8,2,travel non critical,5,0,0,0,0,0,46,1.299
+male,48,176,92,low,yes,0,9,4,stopped,4,0,0,0,0,0,41,17.919
+female,39,160,72,med,quit,0,8,4,never,4,0,0,0,0,0,38,0.5
+male,26,176,90,med,never,1,10,5,stopped,3,0,0,0,0,0,46,0.5
+female,39,174,114,high,never,0,2,2,stopped,4,0,0,0,0,0,20,1.603
+female,39,166,82,med,never,5,5,5,stopped,4,0,0,0,0,0,28.999,0.5
+female,22,174,96,low,never,14,2,2,travel non critical,4,0,0,0,0,0,30,6.458
+female,32,182,122,med,never,2,1,2,stopped,5,0,0,0,0,0,15,0.5
+female,37,158,74,low,yes,0,8,5,stopped,5,0,0,0,0,0,36,10.003
+female,25,176,78,blank,quit,1,10,2,travel non critical,2,0,0,0,0,0,57.999,0.5
+female,31,162,106,med,never,0,7,2,travel critical,4,0,0,0,0,0,45,8.918
+male,38,180,80,med,never,2,1,2,stopped,4,0,0,0,0,0,17,0.5
+male,62,174,124,med,quit,0,21,2,travel critical,5,0,0,0,0,0,85,23.913
+female,23,166,108,med,never,7,21,3,travel non critical,4,0,0,0,0,0,87,0.5
+male,63,186,94,high,never,7,21,4,never,4,0,0,0,0,0,77,2.215
+female,47,176,100,high,quit,9,2,2,home,5,0,0,0,0,0,18,10.719
+female,52,166,62,high,quit,5,3,3,travel critical,4,0,0,0,0,1,33,0.744
+female,32,156,50,blank,never,7,6,3,stopped,4,0,0,0,0,0,32,0.5
+female,32,162,72,med,never,1,10,4,stopped,3,0,0,0,0,0,46,8.887
+female,21,164,66,med,yes,6,7,5,travel critical,5,0,0,1,0,1,43,0.915
+male,35,182,104,med,quit,4,21,1,travel critical,4,0,1,0,0,1,95,10.239
+male,50,194,90,high,yes,5,13,2,never,3,1,0,1,0,0,76,11.385
+male,40,174,104,high,never,14,10,5,travel critical,3,0,0,0,0,0,53,0.544
+female,48,158,50,low,quit,4,0,2,stopped,5,0,0,0,0,0,12,12.21
+female,21,160,56,med,yes,0,10,1,travel critical,4,0,0,0,0,0,54,0.5
+female,40,164,72,med,never,4,21,5,travel critical,4,0,0,0,0,0,87,0.5
+female,27,180,62,med,never,1,3,3,home,5,0,0,0,0,0,21,0.5
+female,37,156,46,blank,never,3,12,2,travel critical,4,0,1,0,0,1,80,0.5
+male,24,188,88,low,never,0,21,4,travel non critical,4,0,0,0,0,0,87,0.5
+male,22,184,72,gov,yes,0,4,2,never,4,0,0,0,0,0,26,7.758
+male,40,172,66,med,never,1,3,11,stopped,4,0,0,1,0,0,21,0.837
+female,50,172,86,low,never,0,1,2,stopped,4,0,0,0,0,0,17,1.334
+female,22,176,154,low,yes,0,20,2,travel critical,3,0,0,0,0,1,86,0.5
+female,44,168,64,med,never,13,2,3,stopped,4,0,0,1,0,0,20,9.374
+female,29,152,60,low,quit,7,3,4,stopped,4,0,0,0,0,0,23,0.5
+male,39,184,96,low,quit,0,4,2,travel critical,5,0,0,1,0,0,34,1.432
+female,41,166,70,gov,yes,10,3,2,never,4,0,0,1,0,0,24,11.764
+female,64,156,72,low,quit,0,8,2,never,3,0,0,1,0,0,40,22.969
+female,49,168,54,blank,yes,6,1,2,stopped,2,0,0,0,0,0,18,0.5
+female,41,158,66,med,never,1,3,4,stopped,5,0,0,0,0,0,21,0.5
+female,26,166,112,med,never,0,5,5,travel critical,4,0,0,0,0,0,39,0.5
+female,32,174,98,med,yes,4,1,1,stopped,4,0,0,0,0,0,17,10.121
+female,53,170,90,med,never,1,4,3,stopped,4,0,0,0,0,0,26,0.881
+female,36,168,78,med,quit,1,12,3,travel critical,4,0,0,0,0,0,60,0.5
+female,35,156,70,med,yes,0,5,3,never,4,0,0,0,0,0,28.999,0.5
+female,51,174,94,med,quit,2,10,2,travel non critical,4,0,0,0,0,0,54,0.939
+female,41,176,120,med,never,0,2,2,stopped,3,0,0,0,0,0,19,8.112
+female,34,164,82,blank,quit,1,3,3,stopped,4,0,0,0,0,0,23,0.5
+male,67,168,112,gov,never,0,21,5,never,3,0,0,0,0,0,79,38.14
+female,31,168,112,med,never,2,10,1,travel critical,4,0,0,0,0,0,54,0.5
+female,20,176,108,med,quit,0,2,3,stopped,5,0,0,0,0,0,18,1.007
+male,62,186,104,high,never,14,3,2,never,3,0,0,0,0,0,27,15.476
+other,32,194,88,med,never,0,1,2,never,5,0,0,1,0,0,15,12.628
+female,31,160,66,high,never,3,6,4,stopped,4,0,0,1,0,0,32,9.247
+female,24,176,62,med,never,2,0,5,stopped,2,0,0,0,0,0,18,0.5
+female,58,176,78,med,quit,1,10,4,travel non critical,4,0,0,0,0,0,54,0.88
+male,69,174,92,med,never,10,21,2,travel critical,4,0,0,0,0,0,87,1.508
+male,10,186,84,high,quit,2,0,4,never,5,0,0,0,0,0,10,0.5
+female,70,158,58,med,never,0,3,2,never,4,0,0,0,0,0,23,2.799
+female,32,174,70,high,quit,0,0,2,never,4,0,0,0,0,0,14,0.5
+female,36,162,104,high,never,0,4,5,home,4,0,0,0,0,0,26,0.5
+female,30,166,64,low,never,1,4,4,stopped,3,0,0,0,0,0,28,7.233
+male,36,180,100,high,never,1,1,2,never,5,0,0,0,0,0,15,7.24
+female,25,158,48,high,never,0,1,2,never,4,0,0,0,0,0,17,0.5
+female,67,168,80,med,never,0,1,1,stopped,4,0,0,0,0,0,17,7.189
+female,29,164,52,med,quit,0,4,1,stopped,3,0,0,0,0,0,28,0.5
+female,34,178,116,med,never,0,3,3,never,4,0,0,0,0,0,20,0.5
+female,32,164,60,med,never,0,3,4,home,3,0,0,0,0,0,25,0.5
+female,38,166,112,low,never,0,10,3,home,3,0,0,0,0,0,46,0.5
+male,59,178,68,high,never,3,3,3,stopped,3,0,0,0,0,0,25,1.686
+male,50,184,86,high,quit,0,10,4,travel non critical,2,0,0,0,0,0,57.999,1.164
+female,54,168,58,high,never,5,3,4,never,3,0,0,0,0,0,25,0.88
+female,46,168,70,low,yes,0,3,4,never,2,0,0,0,0,0,27,0.5
+female,41,164,60,med,never,1,20,3,travel critical,4,0,1,0,0,1,95,0.5
+female,43,156,104,med,quit,0,1,2,never,3,0,0,1,1,0,19,65.154
+female,46,168,116,med,yes,0,10,1,travel critical,4,0,0,0,0,1,54,0.709
+male,56,176,92,high,quit,8,9,2,travel critical,3,0,0,0,0,0,53,1.838
+female,24,174,76,med,yes,2,5,2,stopped,2,0,0,0,0,0,30,0.5
+female,30,172,114,med,quit,1,5,4,stopped,4,0,0,0,0,0,28.999,11.207
+female,66,168,72,gov,yes,2,6,1,stopped,3,0,0,0,0,0,34,1.834
+female,29,160,96,med,never,5,3,2,home,4,0,0,0,0,0,23,0.5
+female,40,170,64,high,never,2,7,3,travel critical,5,0,0,0,0,1,43,1.433
+female,60,156,60,med,never,0,9,2,never,5,0,0,1,0,0,39,15.07
+female,39,168,98,med,yes,0,21,4,travel critical,4,0,0,1,0,0,87,22.284
+male,58,178,148,high,never,7,1,2,stopped,5,0,0,0,0,0,15,12.039
+female,36,136,68,med,yes,0,20,5,never,4,0,0,0,0,0,74,0.5
+female,26,164,58,med,never,0,4,2,never,4,0,0,0,0,0,26,0.5
+female,50,162,66,high,never,13,10,6,stopped,4,0,0,0,0,0,44,0.5
+female,30,156,62,med,never,0,6,2,never,4,0,0,0,0,0,32,0.5
+male,61,172,80,med,quit,0,21,3,stopped,5,0,0,0,0,0,75,3.018
+female,20,174,104,med,never,10,1,2,stopped,4,0,0,1,0,0,17,0.949
+female,57,160,88,med,never,8,6,2,stopped,4,0,0,0,0,0,32,6.436
+female,44,174,118,med,quit,2,21,6,travel critical,5,0,0,1,0,0,85,8.76
+female,21,166,88,med,yes,4,14,2,travel critical,3,0,1,1,0,0,88,10.115
+male,56,184,84,med,yes,2,4,1,stopped,3,0,0,0,0,0,28,3.182
+female,45,174,84,low,never,3,21,4,travel non critical,5,0,0,0,0,0,85,0.5
+male,60,178,86,high,never,13,2,3,never,3,0,0,0,0,0,22,1.105
+female,50,166,112,med,quit,11,5,5,never,5,0,0,1,0,0,24,13.562
+female,26,164,82,low,quit,1,8,10,stopped,2,0,0,0,0,0,42,0.5
+female,36,156,58,low,quit,3,5,3,home,5,0,0,0,0,0,27,0.5
+female,33,174,70,med,quit,1,2,2,stopped,3,0,0,1,0,0,22,0.981
+female,40,162,120,med,quit,0,4,2,stopped,4,0,0,0,0,0,26,8.02
+female,55,172,110,med,never,0,18,8,travel critical,4,0,0,0,0,1,78,20.485
+female,24,174,84,med,never,14,18,2,travel critical,4,0,0,0,0,0,78,0.5
+female,50,168,64,high,quit,0,21,4,never,4,0,0,0,0,0,77,0.5
+female,39,156,116,med,never,3,5,2,stopped,4,0,0,0,1,0,28.999,15.855
+female,48,166,60,med,quit,13,3,2,stopped,2,0,0,0,0,0,27,0.5
+male,33,184,134,med,yes,0,6,6,stopped,3,0,1,0,0,0,54,0.5
+female,45,164,54,med,never,2,14,2,never,3,0,0,0,0,0,57.999,0.5
+female,50,164,78,med,never,0,21,5,travel non critical,2,0,0,1,0,0,91,1.413
+female,31,166,86,med,yes,0,6,6,home,4,0,0,0,0,0,32,0.5
+female,46,174,60,med,quit,0,7,7,stopped,5,0,0,0,0,0,33,0.5
+male,40,194,180,high,quit,0,10,5,stopped,2,0,0,0,0,0,48,13.104
+female,40,162,94,med,yes,14,9,3,travel critical,4,0,0,1,0,0,51,0.896
+female,38,176,92,gov,quit,13,17,1,never,4,0,0,0,0,0,65,0.5
+female,24,168,58,med,never,2,2,2,home,4,0,0,0,0,0,20,0.5
+male,33,192,76,med,never,2,3,2,never,3,0,0,0,0,0,25,0.5
+male,32,186,106,high,never,8,4,4,stopped,5,0,0,0,0,0,24,0.5
+female,80,158,64,med,never,0,3,1,never,3,0,0,0,1,0,25,16.727
+female,20,168,70,low,never,3,21,3,travel critical,4,0,0,0,0,0,87,0.5
+female,48,158,84,med,quit,6,4,4,stopped,3,0,0,0,0,0,28,0.5
+male,49,184,110,low,never,0,4,2,travel critical,4,0,0,0,0,0,36,26.211
+female,32,164,72,low,quit,0,8,3,never,4,0,0,1,0,0,38,8.022
+female,58,164,104,high,never,0,7,4,stopped,4,0,0,0,0,0,35,14.436
+female,52,166,64,gov,yes,0,1,2,stopped,5,0,0,0,0,0,15,1.939
+female,70,162,80,med,never,0,3,2,stopped,4,0,0,0,0,0,23,20.921
+female,48,164,74,high,never,12,1,2,stopped,4,0,0,0,0,0,17,0.579
+female,21,166,64,high,never,0,4,4,stopped,5,0,0,0,0,0,24,0.5
+female,31,164,70,med,never,0,20,2,travel critical,4,0,0,0,0,0,84,0.5
+female,26,174,88,low,quit,0,4,2,travel non critical,5,0,0,1,0,0,34,0.942
+female,48,186,138,med,quit,0,21,3,travel critical,4,0,0,0,0,0,87,2.126
+male,57,188,84,med,never,2,2,1,stopped,2,0,0,0,0,0,24,1.529
+male,49,178,92,med,never,0,7,3,stopped,5,0,0,0,0,0,33,0.5
+female,68,158,70,med,never,2,2,3,never,5,0,0,1,0,0,18,2.348
+female,28,174,92,med,never,0,0,1,stopped,5,0,0,0,0,0,12,7.405
+female,40,176,130,med,never,3,3,4,never,4,0,0,0,0,0,23,0.5
+female,60,178,84,med,quit,10,21,3,travel critical,4,0,0,0,0,0,87,6.374
+female,40,162,90,low,quit,0,5,1,never,4,0,0,0,0,0,28.999,0.5
+female,30,158,44,high,yes,0,15,2,stopped,3,0,0,0,0,0,57.999,0.5
+female,44,162,64,med,quit,0,15,2,never,4,0,0,0,0,0,59,16.962
+female,32,162,68,high,yes,5,21,2,travel critical,4,0,0,0,0,1,87,0.5
+female,32,158,64,high,never,10,5,2,travel critical,5,0,0,0,0,1,37,0.5
+female,44,164,64,med,never,0,6,4,stopped,4,0,0,0,0,0,32,0.5
+female,31,154,70,med,never,1,0,1,stopped,4,0,0,0,0,0,14,0.5
+female,42,164,102,med,never,0,21,4,travel critical,5,0,0,0,0,1,85,5.731
+female,23,160,114,low,never,4,11,1,stopped,4,0,0,1,0,0,47,10.14
+female,58,174,118,med,quit,1,5,1,stopped,4,0,0,0,0,0,28.999,33.157
+female,37,172,60,med,quit,0,1,2,never,4,0,0,0,0,0,17,0.5
+female,32,172,122,med,never,0,21,2,travel critical,3,0,0,0,0,0,89,0.5
+female,34,176,72,med,never,0,3,2,stopped,3,0,0,0,0,0,25,10.436
+female,46,174,108,med,quit,8,3,3,stopped,4,0,0,0,0,0,23,0.5
+female,45,174,114,med,never,1,3,2,stopped,4,0,0,0,0,0,23,0.5
+male,17,174,90,med,never,0,7,5,stopped,5,0,0,0,0,0,33,0.5
+female,50,182,82,high,quit,5,12,4,home,4,0,0,0,0,0,50,0.5
+female,32,160,66,med,never,4,21,5,travel critical,4,0,0,0,0,1,87,1.87
+female,22,172,96,med,quit,7,15,2,travel non critical,4,0,0,1,0,0,69,0.952
+male,50,176,70,med,never,2,5,3,travel critical,3,0,0,1,0,0,41,2.104
+female,42,168,76,med,yes,8,2,3,stopped,4,0,0,0,0,0,20,0.632
+female,36,176,94,med,yes,10,2,2,never,3,0,0,0,0,0,22,0.5
+male,30,182,104,high,quit,8,2,3,stopped,3,0,0,0,0,0,22,0.5
+male,57,174,86,med,quit,1,6,3,never,4,0,0,0,0,0,32,1.331
+female,37,162,44,med,quit,9,0,1,travel non critical,3,0,0,0,0,0,26,9.981
+female,31,168,64,med,never,0,21,4,travel critical,3,0,0,0,0,0,89,0.5
+male,39,180,80,high,quit,1,10,5,stopped,4,0,0,0,0,0,44,0.5
+female,24,164,60,med,never,3,20,2,travel critical,4,0,0,0,0,1,84,0.5
+female,39,168,80,high,never,5,21,2,travel critical,4,0,0,0,0,1,87,5.743
+female,43,158,90,low,never,0,3,1,stopped,4,0,0,1,0,0,23,3.579
+female,42,172,102,med,never,0,8,1,travel non critical,3,0,0,0,0,0,50,16.837
+female,50,164,86,low,quit,1,21,5,travel critical,4,0,0,1,0,1,87,6.864
+female,61,168,78,med,never,14,2,3,home,4,0,0,0,0,0,20,1.867
+male,41,190,100,high,never,10,3,4,stopped,4,0,0,1,0,0,23,1.042
+female,57,160,72,high,never,0,3,2,never,5,0,0,0,0,0,21,11.591
+female,36,164,110,med,yes,0,12,3,never,4,0,0,0,0,0,50,0.5
+female,22,152,44,low,yes,1,21,5,travel non critical,5,0,0,0,0,0,85,0.98
+male,52,180,114,low,never,0,5,6,travel critical,4,0,0,1,0,0,39,13.276
+female,27,174,80,blank,never,1,2,3,never,5,0,0,0,0,0,18,0.5
+female,32,172,92,med,never,0,2,2,never,4,0,0,1,0,0,20,1.216
+female,28,170,112,med,never,0,6,3,home,4,0,0,0,0,0,32,0.5
+female,56,172,106,high,never,2,3,3,never,2,0,0,0,0,0,27,0.63
+female,60,166,88,med,never,0,10,2,travel non critical,3,0,0,0,0,0,56,0.661
+male,6,180,130,high,never,4,3,3,stopped,4,0,0,0,0,0,23,0.5
+male,46,174,72,high,never,2,2,3,home,3,0,0,0,0,0,23,9.158
+female,46,156,74,med,quit,3,3,4,never,4,0,0,0,0,0,23,0.5
+female,52,164,106,low,never,0,3,2,never,4,0,0,1,0,0,23,2.515
+male,32,188,102,low,never,8,21,6,travel critical,3,0,0,0,0,0,89,0.5
+female,37,160,100,med,never,1,3,3,never,5,0,0,0,0,0,21,0.5
+female,49,172,114,med,never,0,2,3,home,4,0,0,0,0,0,20,0.5
+male,48,164,64,med,never,1,4,3,stopped,3,0,0,0,0,0,28,0.5
+male,39,182,86,med,quit,4,4,3,travel critical,2,0,0,0,0,0,42,0.5
+male,41,176,102,med,quit,1,5,4,stopped,4,0,0,0,0,0,28.999,0.5
+female,64,154,70,med,never,0,0,1,never,4,0,0,0,0,0,14,9.149
+female,40,156,68,med,never,0,5,4,never,4,0,0,0,0,0,26,0.5
+female,33,182,88,med,never,0,17,2,travel critical,5,0,1,0,0,1,93,0.5
+female,38,156,56,med,never,1,10,4,travel critical,3,0,0,0,0,1,56,0.5
+female,40,174,82,med,quit,0,8,4,travel critical,3,0,1,0,0,0,70,0.5
+female,21,168,70,med,never,0,5,5,never,4,0,0,0,0,0,26,7.226
+female,34,176,72,low,quit,10,21,4,never,3,0,0,0,0,0,79,0.5
+female,24,166,82,low,never,4,21,2,travel critical,4,0,0,0,0,0,87,0.5
+female,40,174,82,low,never,5,21,3,travel critical,3,0,0,0,0,1,89,0.5
+female,20,162,64,med,never,1,15,3,travel critical,4,0,0,0,0,0,69,0.5
+female,60,180,94,med,yes,14,10,4,travel critical,4,0,0,0,0,0,54,0.657
+male,38,184,114,med,never,0,6,6,never,4,0,0,0,0,0,32,0.5
+female,61,158,96,med,never,0,2,2,never,4,0,0,0,0,0,20,8.071
+female,48,160,68,high,quit,2,9,7,never,4,0,0,0,0,0,41,0.5
+male,50,180,82,high,yes,2,0,1,stopped,4,0,0,0,0,0,14,16.683
+male,62,186,84,low,yes,0,1,2,home,3,0,0,0,0,0,19,11.747
+female,48,146,52,low,yes,13,21,5,travel critical,4,0,0,0,0,1,87,0.5
+female,27,154,62,low,never,0,4,3,stopped,3,0,0,0,0,0,28,0.5
+male,50,166,78,high,never,0,3,3,never,3,0,0,0,0,0,26,0.5
+female,33,172,100,med,never,0,21,1,stopped,3,0,0,1,0,0,79,2.493
+female,57,174,114,med,yes,0,10,2,travel non critical,4,0,0,0,0,0,54,11.66
+male,35,170,78,med,never,0,5,6,stopped,4,0,0,0,0,0,27,0.5
+female,48,166,62,high,never,0,1,2,never,4,0,0,1,0,0,17,0.821
+male,34,176,60,low,never,5,10,2,travel non critical,5,0,0,0,1,0,52,24.338
+female,43,172,84,med,never,4,6,6,never,3,0,0,0,0,0,34,0.5
+male,50,184,122,blank,quit,1,10,5,travel critical,3,0,0,0,0,1,56,0.5
+male,51,178,74,med,yes,0,5,1,never,5,0,0,1,0,0,28.999,2.793
+female,47,174,80,high,never,12,12,3,stopped,4,0,0,0,0,0,50,0.5
+female,24,154,74,low,quit,2,5,3,stopped,5,0,0,1,0,0,27,1.14
+male,31,170,58,med,yes,7,5,5,travel non critical,3,0,0,0,0,0,41,0.5
+female,63,162,84,med,never,3,2,2,stopped,3,0,0,1,0,0,22,2.766
+male,23,188,94,low,yes,0,21,2,travel non critical,4,1,0,1,0,0,95,1.124
+female,27,164,82,high,never,7,1,2,stopped,5,0,0,0,0,0,15,5.186
+other,28,160,114,med,yes,1,21,2,travel critical,4,0,0,0,0,0,87,0.5
+male,33,170,66,med,quit,6,8,4,never,3,0,0,0,0,0,40,0.5
+female,36,158,70,gov,quit,2,3,4,stopped,4,0,0,0,0,0,23,7.323
+male,37,194,78,low,quit,9,5,2,stopped,3,0,0,0,0,0,31,10.201
+female,43,178,74,blank,never,3,8,5,never,3,0,0,0,0,0,40,0.5
+female,43,178,74,high,yes,12,10,3,stopped,4,0,0,0,0,0,44,0.5
+female,36,166,70,med,yes,4,4,2,stopped,3,0,0,0,0,0,28,0.5
+female,26,176,66,low,never,6,2,3,stopped,5,0,0,1,0,0,18,1.132
+female,33,180,90,med,never,13,3,2,stopped,5,0,0,0,0,0,21,0.5
+male,32,178,68,low,quit,12,21,4,travel critical,3,0,0,0,0,0,89,0.5
+female,37,176,76,med,never,1,0,4,travel non critical,4,0,0,0,0,0,24,0.5
+female,38,172,86,med,never,0,5,4,stopped,5,0,0,0,0,0,27,0.5
+female,58,174,70,low,never,0,2,3,never,5,0,0,1,0,0,18,1.505
+male,0,138,52,low,never,0,1,2,stopped,4,0,0,1,1,0,17,32.34
+female,47,164,90,med,never,2,2,4,never,4,0,0,0,0,0,20,8.625
+male,55,174,80,high,quit,10,4,4,travel non critical,4,0,0,0,0,0,36,0.865
+female,49,168,86,high,never,2,6,3,never,4,0,0,1,0,0,32,1.461
+female,20,158,56,med,never,5,6,4,stopped,4,0,0,0,0,0,32,0.5
+female,12,166,60,high,never,0,3,4,stopped,5,0,0,0,0,0,19,0.5
+female,26,162,54,low,never,2,3,2,stopped,4,0,0,0,0,0,23,0.5
+other,30,178,180,low,quit,0,2,3,stopped,5,0,0,1,0,0,18,23.17
+female,72,160,78,med,never,1,20,1,never,5,0,0,1,0,0,72,6.343
+female,56,172,96,med,quit,6,1,2,never,4,0,0,0,0,0,17,1.165
+female,32,166,68,high,never,2,10,2,travel non critical,4,0,0,1,0,0,56,0.987
+female,39,164,60,low,quit,3,2,2,stopped,3,0,0,1,0,0,22,0.775
+female,48,166,124,med,never,5,4,1,never,3,0,0,0,0,1,28,0.5
+female,43,168,90,med,never,0,2,3,stopped,4,0,0,0,0,0,20,5.963
+female,63,162,78,med,never,0,3,2,stopped,4,0,0,0,0,0,23,13.004
+female,55,168,78,med,never,3,5,3,stopped,4,0,0,1,0,0,28.999,2.169
+female,53,172,118,med,quit,1,6,2,never,4,0,0,0,0,0,32,13.196
+female,67,178,96,med,never,2,1,2,never,4,0,0,0,0,0,17,41.419
+male,54,186,102,med,never,2,1,2,stopped,4,0,0,0,0,0,17,20.182
+female,36,172,158,gov,never,0,1,2,never,4,0,0,1,0,0,18,14.633
+female,33,164,92,med,yes,10,6,3,stopped,5,0,0,1,0,0,30,1.189
+female,45,170,70,high,never,2,4,4,stopped,4,0,0,0,0,0,26,0.5
+female,26,164,62,med,quit,6,6,4,stopped,2,0,0,0,0,0,36,0.5
+female,30,184,74,med,never,2,4,4,stopped,5,0,0,0,0,0,24,0.5
+female,29,134,68,low,quit,0,21,5,stopped,2,0,0,1,0,0,81,0.978
+female,33,164,60,low,quit,2,0,3,stopped,4,0,0,0,0,0,14,0.5
+female,65,160,76,med,yes,14,1,2,stopped,3,0,0,0,0,0,19,13.785
+female,43,154,104,high,yes,0,12,6,travel critical,5,0,0,0,0,1,57.999,0.568
+female,40,172,124,med,quit,2,1,2,stopped,5,0,0,0,0,0,15,1.066
+female,37,170,120,med,never,14,4,3,stopped,3,0,0,0,0,0,28,0.5
+female,39,160,84,med,yes,1,0,1,stopped,5,0,0,0,0,0,12,0.5
+female,36,164,88,med,never,0,21,2,travel non critical,4,0,0,0,0,0,87,0.5
+female,32,154,76,low,yes,2,21,4,travel critical,4,0,0,0,0,0,87,0.5
+female,24,164,56,med,never,0,3,3,never,4,0,0,0,0,0,23,0.5
+female,75,164,62,high,quit,2,1,2,never,4,0,0,0,0,0,14,4.605
+female,57,158,88,med,never,0,3,3,stopped,4,0,0,0,0,0,23,1.55
+female,21,166,50,med,never,0,21,2,travel critical,4,0,0,0,0,1,87,0.5
+female,59,168,94,med,quit,1,12,4,travel critical,3,0,0,0,0,0,62,0.822
+female,25,156,54,low,never,1,8,2,travel critical,5,0,0,0,0,0,46,9.018
+male,60,174,108,high,quit,3,5,4,home,4,0,0,0,0,0,28.999,8.192
+female,42,176,108,med,quit,2,10,5,travel non critical,4,0,0,1,0,0,54,1.512
+female,47,164,64,med,never,1,1,2,home,4,0,0,0,0,0,17,0.5
+female,47,168,62,low,never,3,0,1,never,3,0,0,0,0,0,16,0.5
+female,55,164,62,med,never,12,6,2,stopped,4,0,0,0,0,0,32,1.09
+female,32,156,88,med,yes,3,20,5,stopped,3,0,0,0,0,0,76,0.5
+male,40,178,84,med,never,0,9,3,never,5,0,0,0,0,0,39,15.234
+female,34,168,108,high,never,7,5,4,never,3,1,0,0,0,0,51,0.5
+male,32,180,118,med,quit,6,6,6,travel critical,3,0,0,0,0,1,44,7.622
+female,37,176,58,med,yes,2,5,5,travel critical,5,0,0,0,0,0,37,10.526
+male,23,176,82,med,yes,10,1,2,home,2,0,0,0,0,0,21,0.5
+female,59,156,92,high,never,9,21,3,travel critical,4,0,0,0,0,1,87,1.506
+male,50,176,98,high,quit,2,3,3,stopped,5,0,0,0,0,0,21,8.233
+female,49,162,78,med,quit,0,4,5,stopped,3,0,0,0,0,0,28,9.598
+female,32,120,56,low,never,5,4,1,never,4,0,0,0,0,0,26,0.5
+male,40,170,96,high,quit,5,6,4,stopped,5,0,0,0,0,0,30,0.5
+female,39,164,84,low,quit,1,21,2,travel non critical,4,0,0,0,0,0,87,0.5
+female,27,168,78,low,quit,2,20,5,travel critical,4,0,0,0,0,0,84,0.5
+female,46,156,66,med,quit,2,6,2,stopped,4,0,0,1,0,0,32,2.602
+female,21,162,62,low,never,5,10,3,travel critical,5,0,0,0,0,0,52,0.5
+female,38,154,112,med,quit,1,2,3,home,2,0,0,1,0,0,21,1.129
+male,28,172,100,med,never,3,5,2,stopped,4,0,0,0,0,0,28.999,0.5
+female,39,162,62,med,never,10,1,2,stopped,4,0,0,0,0,0,17,0.5
+female,49,178,132,med,never,2,3,2,home,3,0,0,0,0,0,25,11.659
+female,27,160,60,med,yes,0,7,5,never,3,0,0,0,0,0,38,0.5
+male,52,186,114,high,never,4,1,2,stopped,4,0,0,0,0,0,17,33.829
+female,43,182,70,med,quit,2,3,4,never,4,0,0,0,0,0,23,0.526
+female,44,174,136,low,yes,0,7,4,travel non critical,3,0,1,0,0,0,67,12.532
+female,50,180,88,med,never,0,10,5,travel non critical,2,0,0,0,0,0,57.999,0.5
+female,43,164,82,high,quit,3,4,4,stopped,5,0,0,0,0,0,24,0.603
+male,40,174,92,med,never,0,10,3,never,5,0,0,0,0,0,42,0.5
+female,46,166,90,high,never,0,1,2,never,3,0,0,0,0,0,19,0.792
+female,29,158,88,med,quit,6,7,2,travel non critical,4,0,0,0,0,0,45,0.5
+other,52,136,90,med,yes,5,1,1,stopped,4,0,0,1,0,0,17,2.618
+female,58,168,90,med,never,0,3,3,never,4,0,0,0,0,0,23,10.597
+female,43,176,146,med,never,0,6,7,never,4,0,0,1,0,0,32,1.504
+female,53,168,102,med,never,7,8,4,stopped,4,0,0,1,0,0,38,2.971
+male,9,136,52,med,never,0,3,4,never,3,0,0,1,0,0,22,1.1
+female,75,162,48,med,quit,0,0,1,never,5,0,0,0,1,0,12,19.718
+male,59,182,110,med,never,1,8,4,stopped,4,0,0,0,0,0,38,1.359
+female,89,168,66,med,never,0,1,1,never,4,0,0,0,0,0,17,4.056
+male,36,188,118,low,yes,1,16,2,travel critical,4,0,0,0,0,0,72,15.747
+female,36,168,58,med,never,13,1,3,travel critical,3,0,1,0,0,1,49,1.792
+female,46,166,50,med,quit,1,10,4,never,5,0,0,0,0,0,42,0.5
+female,65,174,82,low,never,0,1,2,never,5,0,0,0,0,0,15,1.511
+male,37,176,128,high,never,11,7,4,never,3,0,0,0,0,0,37,0.5
+female,30,164,88,low,quit,0,2,2,home,5,0,0,0,0,0,18,0.5
+female,34,160,62,med,never,0,7,4,never,4,0,0,0,0,0,35,0.5
+female,49,166,114,med,quit,2,2,3,never,5,0,0,1,0,0,18,21.322
+female,42,176,88,med,quit,9,6,2,stopped,4,0,0,0,0,0,32,0.5
+female,32,154,68,low,quit,12,21,1,travel non critical,4,0,0,0,0,0,87,0.5
+female,30,164,96,med,never,0,12,4,travel non critical,3,0,0,0,0,0,62,0.5
+female,20,170,92,low,quit,9,3,2,stopped,4,0,0,0,0,0,23,0.5
+female,51,156,62,med,quit,5,4,2,home,5,0,0,0,1,0,21,18.744
+female,43,176,90,blank,never,5,5,3,home,4,0,0,0,0,0,26,0.565
+female,49,166,58,high,never,7,20,4,travel non critical,3,0,0,0,0,0,86,0.5
+female,67,166,50,high,never,13,4,3,never,3,0,0,0,0,0,28,2.295
+female,45,160,114,med,never,2,6,2,stopped,4,0,0,0,0,0,32,0.5
+female,29,168,66,low,quit,7,5,5,stopped,4,0,0,0,0,0,28.999,0.5
+male,37,182,78,high,never,1,10,3,travel critical,3,0,1,0,0,0,73,0.5
+male,57,176,126,high,never,3,8,2,travel critical,3,0,0,0,0,0,50,3.777
+female,50,162,68,med,yes,2,3,1,stopped,3,0,0,0,0,0,25,0.667
+female,42,154,68,med,never,0,10,6,home,4,0,0,0,0,0,42,2.223
+male,38,192,98,med,never,0,4,3,stopped,4,0,0,0,0,0,26,0.5
+male,39,184,180,low,never,0,7,1,travel critical,3,0,0,0,0,0,47,39.099
+female,54,174,122,med,never,2,2,3,never,3,0,0,0,0,0,22,9.955
+female,39,160,62,med,never,2,4,2,stopped,3,0,0,0,0,0,28,0.5
+female,53,158,52,med,never,2,6,2,home,3,0,0,0,0,0,34,1.53
+female,38,162,70,med,never,0,3,6,travel non critical,4,0,0,0,0,0,33,0.5
+female,40,162,68,med,yes,0,3,2,stopped,3,0,0,0,0,0,25,0.5
+female,36,164,80,high,yes,10,7,6,never,4,0,0,0,0,0,35,10.182
+male,45,182,92,med,never,14,2,2,stopped,3,0,0,1,0,0,22,14.986
+female,39,172,78,med,quit,14,1,2,stopped,5,0,0,0,0,0,15,0.5
+female,20,164,94,med,yes,1,5,4,stopped,5,0,0,0,0,0,27,0.5
+female,38,154,112,med,quit,1,4,3,home,3,0,0,1,0,0,25,1.355
+female,52,162,72,high,never,8,4,2,never,4,0,0,0,0,0,26,1.474
+female,39,158,64,med,never,4,1,2,stopped,4,0,0,1,0,0,17,2.477
+female,50,168,128,med,quit,1,2,2,never,5,0,0,0,0,0,18,22.859
+male,23,166,66,med,yes,0,3,1,home,4,0,0,0,0,0,23,3.999
+female,51,174,82,high,never,10,2,2,stopped,4,0,0,0,0,0,20,10.62
+male,49,180,106,med,never,9,21,2,travel critical,4,0,0,0,0,0,87,0.5
+male,24,188,88,med,never,3,2,3,stopped,5,0,0,0,0,0,18,0.5
+male,60,186,108,med,never,1,1,2,never,4,0,0,0,0,0,17,11.269
+female,69,172,88,med,never,1,5,2,never,3,0,0,0,0,0,31,1.54
+male,39,196,114,med,never,0,10,1,never,5,0,0,0,0,0,42,0.5
+female,25,182,74,high,never,1,3,2,travel non critical,5,0,0,0,0,0,28.999,0.5
+male,40,182,78,high,never,3,1,2,stopped,2,0,0,0,0,0,21,0.5
+female,36,176,76,high,never,5,6,4,stopped,2,0,0,0,0,0,36,0.5
+female,70,164,108,med,never,0,5,2,never,4,0,0,1,0,0,28.999,12.062
+female,26,176,98,low,never,0,10,3,stopped,4,0,0,0,0,0,44,0.5
+male,47,180,96,high,never,0,6,3,never,4,0,0,0,0,0,32,0.5
+female,44,162,78,high,never,9,6,1,never,3,0,0,1,0,0,34,6.199
+female,39,176,60,low,yes,12,2,2,stopped,4,0,0,0,0,0,20,0.5
+female,52,164,56,high,never,2,10,6,travel non critical,4,0,0,0,0,0,54,0.548
+female,51,158,114,med,never,1,1,2,never,5,0,0,0,0,0,15,1.364
+male,71,180,90,high,quit,14,1,2,never,4,0,0,0,0,0,15,58.638
+female,27,166,64,med,quit,0,1,2,stopped,5,0,0,1,0,0,15,19.401
+male,54,176,68,high,yes,7,21,2,travel critical,4,0,0,0,0,1,87,0.945
+female,25,162,62,med,never,0,2,2,never,5,0,0,0,0,0,18,0.5
+female,31,160,76,med,never,1,3,3,stopped,4,0,0,0,0,0,23,0.5
+female,62,170,94,high,quit,0,0,1,home,4,0,0,0,0,0,14,2.353
+female,28,170,78,low,never,10,4,4,stopped,5,0,0,0,0,0,24,0.5
+female,33,166,58,low,quit,0,3,3,never,5,0,0,0,0,0,21,0.5
+female,47,164,88,med,never,3,14,7,home,3,0,0,0,0,0,57.999,0.5
+female,23,170,76,med,never,9,5,2,stopped,5,0,0,0,0,0,27,0.5
+female,31,150,62,high,quit,0,3,2,never,5,0,0,0,0,0,21,0.5
+female,38,168,110,med,never,5,3,3,stopped,4,0,0,0,0,0,23,0.5
+female,37,154,114,med,never,3,3,2,travel non critical,3,0,0,0,0,0,35,0.5
+male,43,156,54,med,never,0,3,1,travel critical,4,0,1,0,0,0,51,12.42
+female,26,154,54,high,yes,1,5,4,stopped,4,0,0,0,0,0,27,0.5
+female,52,166,58,high,never,1,5,2,stopped,5,0,0,0,0,0,27,24.725
+female,50,164,156,high,never,1,15,2,travel critical,3,0,0,0,0,0,71,6.443
+male,67,188,128,med,quit,5,0,2,never,4,0,0,0,0,0,14,9.709
+female,54,168,80,low,quit,1,5,2,home,4,0,0,0,0,0,28.999,1.019
+female,23,176,78,low,yes,2,1,8,stopped,5,0,0,0,0,0,15,0.5
+male,50,162,68,med,never,5,2,2,travel critical,4,0,0,0,0,0,30,10.533
+female,42,176,62,med,never,12,7,5,stopped,5,0,0,0,0,0,33,1.668
+male,41,180,72,high,never,13,4,3,stopped,4,0,0,0,0,0,26,0.563
+female,37,160,84,blank,quit,1,6,4,stopped,2,0,0,0,0,0,36,0.5
+male,19,122,44,gov,never,0,0,4,never,4,0,0,0,0,0,14,10.775
+female,58,180,104,blank,never,0,21,3,stopped,2,0,0,0,0,0,81,1.119
+female,22,156,60,med,quit,0,10,3,stopped,5,0,0,1,0,0,42,0.933
+female,32,164,54,med,quit,0,1,2,stopped,4,0,0,0,0,0,17,0.5
+female,35,178,120,med,yes,0,20,4,travel critical,4,0,0,1,0,0,84,10.77
+male,34,184,82,med,never,0,20,1,travel critical,3,0,0,0,0,1,84,0.5
+female,38,166,100,high,never,4,1,2,never,5,0,0,0,0,0,15,0.5
+female,33,160,50,low,yes,8,5,3,stopped,3,0,0,0,0,0,31,0.5
+female,40,168,94,med,never,14,2,1,stopped,3,0,0,0,0,0,22,0.5
+female,52,166,86,high,quit,0,18,4,never,4,0,1,0,0,0,88,7.573
+female,58,172,74,high,never,2,3,3,travel non critical,5,0,0,0,0,1,31,0.999
+male,52,192,110,high,quit,14,6,4,travel non critical,4,0,0,0,0,0,42,1.367
+female,48,162,94,high,never,0,4,4,home,4,0,0,0,0,0,26,10.916
+female,30,162,60,med,never,0,7,2,never,4,0,0,0,0,0,35,0.5
+male,42,168,96,low,never,2,21,3,travel critical,4,0,0,0,0,0,87,21.459
+male,63,182,122,med,quit,14,8,2,travel critical,3,0,0,0,0,0,50,2.571
+female,42,164,78,med,yes,0,9,2,travel critical,2,0,0,0,0,0,55,0.614
+female,44,156,52,low,never,1,6,2,home,4,0,0,0,0,0,32,0.5
+male,33,182,82,high,never,14,20,3,travel critical,5,0,1,0,0,1,95,0.5
+female,43,172,98,med,quit,0,10,1,travel non critical,4,0,0,1,0,0,51,1.287
+female,23,166,76,low,quit,0,5,2,stopped,4,0,0,1,0,0,28.999,0.946
+female,50,162,140,low,never,2,21,4,travel critical,4,0,0,0,0,0,87,0.5
+female,53,158,92,low,never,0,3,3,home,5,0,0,0,0,0,21,0.929
+female,48,164,60,med,never,0,4,4,stopped,5,0,0,0,0,0,22,0.5
+female,40,164,60,low,quit,6,2,2,stopped,4,0,0,0,0,0,20,0.5
+female,39,170,66,high,quit,7,2,2,stopped,4,0,0,0,0,0,20,0.5
+female,60,164,82,high,never,2,2,3,stopped,4,0,0,1,0,1,20,13.144
+male,32,168,66,high,never,1,6,3,never,4,0,0,0,0,0,30,0.5
+male,27,178,128,med,never,10,5,4,never,4,0,0,0,0,0,28.999,0.5
+female,22,156,54,med,never,1,3,2,stopped,3,0,0,0,0,0,25,0.5
+female,24,166,52,med,never,2,2,3,stopped,3,0,0,0,0,0,22,0.5
+male,51,186,114,high,quit,2,16,2,stopped,4,0,0,0,0,0,62,12.74
+female,43,152,110,low,never,2,12,4,stopped,4,0,0,1,0,0,50,2.699
+female,29,168,88,low,quit,0,2,2,home,5,0,0,0,0,0,18,0.5
+female,34,164,90,med,never,1,2,2,stopped,3,0,0,1,0,0,19,1.054
+female,37,158,46,med,never,3,5,3,travel critical,2,0,0,1,0,1,43,1.073
+female,50,180,104,med,never,1,4,5,home,4,0,0,0,0,1,26,0.5
+male,20,168,50,med,never,0,0,5,stopped,5,0,0,0,0,0,12,14.622
+male,30,176,102,gov,never,0,1,2,stopped,5,0,0,0,0,0,15,0.5
+female,46,178,116,med,never,2,21,3,travel critical,3,0,1,1,0,1,95,0.877
+male,39,176,110,low,never,3,5,1,travel non critical,4,0,0,0,0,0,39,0.5
+male,51,176,88,high,quit,3,9,4,travel non critical,5,0,0,0,0,0,49,1.765
+female,51,160,62,med,never,0,2,2,never,4,0,0,0,0,0,20,1.083
+female,40,158,56,med,yes,6,5,3,stopped,5,0,0,0,0,0,27,0.5
+male,36,184,90,med,quit,12,21,2,travel critical,4,0,0,0,0,0,87,0.5
+male,34,190,126,med,yes,4,3,2,stopped,2,0,0,1,0,0,28,11.334
+female,30,162,100,med,never,5,8,2,stopped,3,0,0,1,0,0,40,1.241
+male,20,174,76,high,quit,0,4,4,home,4,0,0,0,0,0,24,0.5
+female,60,156,70,med,never,0,3,1,never,4,0,0,0,0,0,23,2.68
+female,10,154,66,med,never,0,3,3,stopped,3,0,0,1,0,0,25,1.081
+male,52,178,80,med,quit,9,5,3,stopped,4,0,0,0,0,0,28.999,8.014
+female,32,172,114,low,never,7,5,2,travel critical,4,0,0,0,0,0,39,0.5
+male,25,178,54,med,quit,1,1,2,home,4,0,0,0,1,0,17,14.566
+female,45,174,96,med,quit,3,1,2,stopped,5,0,0,0,0,0,15,10.633
+female,37,160,104,high,yes,4,4,5,stopped,5,0,0,0,0,0,24,0.5
+female,63,166,62,high,quit,10,1,2,stopped,4,0,0,0,0,0,17,3.164
+female,24,162,70,med,yes,2,21,2,travel critical,3,0,0,1,0,0,89,0.962
+female,64,168,90,high,never,4,4,4,home,4,0,0,1,0,0,26,2.649
+male,51,174,156,gov,never,0,2,1,never,4,0,0,0,0,0,20,1.299
+female,24,172,82,low,never,1,8,4,stopped,4,0,0,1,0,0,38,0.642
+male,58,164,108,med,quit,0,3,3,never,3,0,0,0,0,0,26,1.659
+female,61,162,72,med,never,0,3,1,home,3,0,0,1,0,0,25,12.057
+male,36,176,84,med,never,0,2,2,never,4,0,0,0,0,0,20,0.5
+male,27,178,88,med,yes,13,4,2,stopped,5,0,0,1,0,0,24,0.821
+female,23,164,66,med,never,0,2,2,stopped,4,0,0,0,0,0,20,0.5
+female,37,162,114,med,never,8,1,2,stopped,3,0,0,0,0,0,20,16.603
+female,44,172,100,high,never,2,6,4,never,3,0,0,1,0,0,34,1.274
+male,64,174,86,med,never,12,10,5,travel non critical,4,0,0,0,0,0,54,16.233
+female,60,162,66,med,yes,0,2,1,travel critical,4,0,0,1,0,0,30,1.329
+female,22,174,64,low,never,1,2,2,stopped,5,0,0,0,0,0,18,0.5
+male,25,180,82,med,quit,5,21,3,travel non critical,3,0,0,0,0,0,89,0.5
+female,31,168,110,med,yes,6,4,2,stopped,4,0,0,0,0,0,26,0.5
+male,59,172,78,high,never,0,7,6,stopped,3,0,0,0,0,0,37,1.63
+female,57,160,82,med,never,6,2,2,travel critical,4,0,0,0,0,0,30,11.567
+female,45,174,72,med,quit,10,21,5,travel critical,4,0,0,0,0,1,87,0.5
+female,43,162,82,med,never,2,3,4,stopped,4,0,0,1,0,0,23,9.788
+female,40,166,68,low,quit,4,15,2,home,4,0,0,0,0,0,59,0.5
+male,33,184,138,low,quit,2,4,3,stopped,4,0,0,0,0,0,26,0.5
+female,22,166,86,med,quit,4,5,6,stopped,5,0,0,0,0,0,27,0.5
+female,55,158,88,low,never,6,12,1,travel critical,4,0,1,0,0,0,80,1.272
+female,37,170,80,high,never,2,5,3,stopped,5,0,0,0,0,0,27,9.196
+male,21,176,60,low,never,0,6,2,never,3,0,0,0,0,0,34,0.5
+male,30,172,74,med,never,0,14,2,travel non critical,5,0,0,0,0,0,64,0.5
+female,56,162,58,med,never,0,6,3,stopped,4,0,0,0,0,0,32,0.788
+male,58,182,96,high,quit,12,0,1,stopped,5,0,0,0,0,0,10,1.63
+female,21,166,72,med,never,0,2,2,stopped,4,0,0,0,0,0,20,0.5
+female,25,176,86,med,yes,14,10,7,travel non critical,2,0,1,1,0,0,78,0.967
+female,30,158,62,med,quit,10,9,5,never,4,0,0,0,0,0,41,7.373
+female,46,176,106,low,quit,0,5,1,travel non critical,4,0,0,1,0,0,39,1.34
+female,47,150,62,med,never,1,6,1,travel critical,5,0,0,0,0,1,40,0.5
+female,30,174,180,blank,never,0,21,6,travel critical,3,0,0,0,0,0,89,1.037
+female,52,154,56,high,quit,0,2,2,never,4,0,0,1,0,0,20,1.306
+female,42,158,62,high,yes,3,3,2,stopped,3,0,0,0,0,0,25,17.647
+male,48,176,72,med,yes,0,2,4,stopped,5,0,0,0,0,0,18,0.5
+male,1,136,44,high,never,0,10,4,never,2,0,0,0,0,0,48,0.5
+female,73,168,90,med,never,0,1,2,stopped,4,0,0,1,1,1,17,30.649
+female,50,168,86,low,never,1,2,3,stopped,5,0,0,0,0,0,18,0.5
+female,31,170,66,med,yes,7,4,3,home,4,0,0,0,0,0,26,10.916
+female,37,164,62,med,never,4,5,6,home,3,0,0,0,0,0,31,0.5
+female,45,166,74,low,quit,0,4,5,stopped,4,0,0,0,0,0,27,7.48
+female,56,164,96,high,never,0,9,8,travel critical,4,0,0,1,0,0,51,1.314
+female,30,182,104,med,never,5,6,1,travel critical,4,0,0,1,0,0,42,1.057
+female,27,160,76,low,yes,14,7,2,travel non critical,3,0,0,0,0,0,47,0.5
+female,75,168,106,high,quit,0,1,2,home,4,0,0,1,0,0,17,9.143
+female,42,172,122,high,never,2,2,2,stopped,4,0,0,1,0,0,20,1.561
+female,48,156,104,med,quit,0,1,2,never,3,0,0,1,1,0,19,66.889
+female,29,166,66,low,yes,0,21,5,travel critical,2,0,1,1,0,0,95,1.605
+male,55,178,112,med,quit,12,21,1,travel critical,3,0,0,0,0,0,89,12.382
+other,24,166,112,high,yes,4,1,2,never,4,0,0,0,0,0,17,0.5
+female,43,158,102,med,quit,8,2,3,stopped,5,0,0,0,0,0,18,0.5
+male,31,166,80,blank,never,0,0,1,never,2,0,0,0,0,0,19,1.788
+male,24,168,62,med,yes,0,5,6,never,5,0,0,0,0,0,25,0.5
+female,50,180,88,high,never,6,14,3,travel critical,4,0,0,0,0,1,66,0.5
+female,55,174,96,med,yes,14,4,2,never,4,0,0,0,0,0,26,0.5
+male,84,184,96,med,quit,14,1,2,never,4,0,0,0,1,0,17,57.747
+female,64,160,142,high,never,2,1,2,never,4,0,0,0,0,0,17,7.582
+female,41,172,66,med,never,12,7,4,stopped,4,0,0,0,0,0,35,0.5
+male,58,176,92,med,never,0,10,3,travel critical,4,0,0,0,0,1,54,13.738
+female,27,164,56,high,never,1,21,4,travel non critical,4,0,0,0,0,0,87,0.5
+female,46,174,114,high,never,0,3,3,never,4,0,0,0,0,0,23,0.5
+female,29,168,94,med,never,4,4,2,stopped,4,0,0,0,0,0,26,0.5
+male,33,178,84,high,never,0,6,2,stopped,4,0,0,0,0,0,32,0.5
+female,33,160,98,med,never,0,3,4,home,4,0,0,0,0,0,21,0.5
+female,36,178,100,high,never,5,0,5,home,4,0,0,0,0,0,14,0.5
+female,45,162,94,med,never,1,3,3,stopped,2,0,0,0,0,0,28,0.5
+male,57,188,114,med,never,7,5,3,never,4,0,0,1,1,0,28.999,18.666
+male,45,182,92,high,never,1,2,2,never,3,0,0,0,0,0,22,0.5
+female,32,156,52,low,never,14,6,5,never,4,0,0,0,0,0,32,0.5
+female,48,156,80,med,quit,0,4,4,travel critical,4,0,0,0,0,0,36,0.5
+female,29,164,54,med,never,0,4,4,never,5,0,0,0,0,0,22,0.5
+female,34,162,66,med,never,2,3,3,stopped,4,0,0,0,0,0,23,0.5
+female,56,176,112,high,never,0,4,2,travel non critical,5,0,0,0,0,0,34,10.546
+female,39,170,62,med,never,4,14,4,stopped,3,0,0,1,0,0,57.999,10.026
+female,47,164,150,high,never,0,4,4,stopped,5,0,0,1,0,0,24,1.579
+female,21,164,70,low,yes,3,10,2,stopped,4,0,0,0,0,0,44,0.5
+female,24,168,80,med,quit,0,4,4,never,4,0,0,0,0,0,26,0.5
+male,43,176,82,med,never,14,3,2,home,4,0,0,0,0,0,23,0.901
+female,30,168,106,low,never,8,21,3,travel critical,4,0,0,0,0,0,87,1.045
+female,32,168,50,low,yes,2,4,1,stopped,4,0,0,0,0,0,26,11.63
+female,20,170,86,med,quit,8,4,2,travel critical,4,0,0,0,0,0,36,0.5
+female,39,158,54,high,never,3,1,2,stopped,3,1,1,0,0,0,60,0.5
+female,49,178,96,med,quit,0,1,2,home,4,0,0,0,0,0,17,0.5
+female,33,164,94,med,yes,7,7,4,travel critical,4,0,0,0,0,1,45,0.5
+female,27,162,160,low,never,1,5,2,never,4,0,0,0,0,0,28.999,0.5
+female,42,172,140,med,never,3,4,4,stopped,4,0,0,1,0,0,26,12.583
+female,45,182,114,med,quit,0,20,3,stopped,4,0,0,0,0,0,74,11.607
+female,68,166,62,med,never,7,4,2,stopped,4,0,0,1,0,0,26,1.748
+female,34,162,106,med,never,0,7,2,travel critical,4,0,0,0,0,0,45,0.5
+female,33,160,88,med,yes,0,3,3,home,5,0,0,1,0,0,21,1.228
+female,36,162,98,med,never,0,5,3,never,4,0,0,0,0,0,27,0.5
+female,42,172,62,med,never,1,1,5,never,4,0,0,0,0,0,17,0.5
+female,39,166,68,high,never,1,3,4,never,4,0,0,1,0,0,23,0.742
+female,49,172,160,med,yes,2,10,3,travel critical,4,0,0,0,0,0,54,8.126
+female,59,168,76,med,never,4,4,2,stopped,4,0,0,0,0,0,26,0.5
+female,38,164,70,low,yes,9,21,2,travel critical,4,0,0,0,0,0,87,0.5
+female,44,164,74,med,yes,14,3,1,stopped,4,0,0,0,0,0,23,9.307
+female,45,154,82,med,never,2,2,1,travel non critical,5,0,0,0,0,0,28,0.5
+female,26,158,60,low,never,0,2,2,travel non critical,3,0,0,0,0,0,32,1.364
+female,32,158,90,med,yes,0,5,4,never,5,0,0,0,0,0,27,0.5
+male,52,182,112,med,quit,0,10,2,travel non critical,2,0,0,0,0,0,57.999,1.028
+female,44,160,72,high,never,2,5,5,home,5,0,0,0,0,0,27,8.59
+female,59,182,138,med,never,0,4,2,never,3,0,0,0,0,0,25,8.752
+male,43,188,92,high,never,4,1,2,stopped,2,0,0,1,0,0,21,1.44
+female,70,172,64,med,quit,0,1,2,stopped,4,0,0,0,0,0,17,1.976
+female,62,182,78,high,never,9,5,4,home,3,0,0,0,0,0,31,1.848
+female,39,170,94,high,quit,0,0,1,stopped,5,0,0,0,0,0,12,0.5
+female,30,160,82,low,yes,2,1,2,home,5,0,0,0,0,0,15,0.5
+female,33,164,94,med,never,4,10,6,travel critical,4,0,0,0,0,0,54,0.5
+female,31,160,62,med,never,0,3,4,home,4,0,0,0,0,0,23,0.5
+male,47,178,90,high,never,0,5,5,never,4,0,0,0,0,1,27,12.617
+female,35,164,94,low,yes,2,5,6,stopped,3,0,0,0,0,0,31,1.091
+male,70,180,78,med,yes,1,21,1,travel critical,4,0,0,0,0,0,87,1.333
+male,42,192,104,med,yes,14,7,4,travel critical,2,0,0,0,0,0,49,0.544
+female,39,174,112,med,never,0,4,2,stopped,4,0,0,0,0,0,26,0.5
+female,60,158,50,high,never,4,15,3,home,3,0,0,0,0,0,61,0.9
+male,25,168,62,low,yes,14,3,1,never,5,0,0,1,0,0,21,1.405
+female,39,158,70,low,yes,14,10,6,travel critical,2,0,0,0,0,0,57.999,0.5
+male,63,180,90,low,quit,0,1,2,stopped,3,0,0,0,0,0,20,1.673
+female,10,158,44,low,never,0,4,4,stopped,5,0,0,0,0,0,24,1.04
+female,32,160,50,med,never,1,6,5,never,2,0,0,0,0,0,36,0.5
+female,42,158,56,med,quit,0,6,3,stopped,3,0,0,0,0,0,34,0.5
+female,26,176,114,med,never,0,3,3,never,5,0,0,0,0,0,21,6.759
+female,24,164,68,med,yes,1,8,2,travel critical,2,0,0,0,0,0,52,0.5
+female,76,164,114,med,never,0,1,1,never,5,0,0,0,0,0,15,2.346
+female,31,172,76,med,quit,0,1,2,never,4,0,0,0,0,0,17,1.706
+male,26,174,66,blank,never,0,0,5,home,4,0,0,0,0,0,12,0.5
+female,57,182,112,med,quit,2,0,1,stopped,5,0,0,0,0,0,12,1.388
+male,39,180,84,med,quit,7,10,2,home,4,0,0,0,0,0,42,7.056
+female,39,162,62,med,never,2,7,6,stopped,4,0,0,0,0,0,35,0.5
+male,31,182,78,high,never,0,2,2,stopped,5,0,0,1,0,0,18,1.288
+male,41,190,114,high,never,1,6,6,never,5,0,0,0,0,0,30,7.348
+male,49,184,136,med,never,0,10,2,stopped,4,0,0,0,0,0,42,0.5
+male,32,178,78,med,never,13,10,4,travel critical,3,0,0,0,0,0,56,0.5
+other,30,160,72,low,yes,14,1,2,stopped,5,0,0,0,0,0,15,0.5
+male,42,188,94,med,quit,2,21,5,stopped,3,0,0,0,0,0,79,0.5
+male,26,190,86,low,never,7,6,7,stopped,4,0,0,0,0,0,32,0.5
+female,45,176,100,high,never,0,2,2,home,5,0,0,0,0,0,18,10.719
+female,43,164,68,med,quit,9,5,5,never,4,0,0,0,0,0,28.999,0.765
+male,51,190,100,high,never,3,3,3,travel non critical,3,0,0,0,0,0,35,1.198
+female,43,154,82,med,quit,0,15,4,stopped,4,0,0,0,0,0,59,8.54
+female,47,168,62,med,never,0,6,4,travel non critical,4,0,0,0,0,0,42,1.611
+male,16,174,72,high,never,0,11,4,stopped,5,0,0,0,0,0,45,0.5
+female,39,154,62,blank,yes,1,6,5,stopped,4,0,0,0,0,0,32,0.5
+female,23,172,76,low,yes,4,21,2,travel critical,2,0,0,0,0,0,91,0.5
+female,57,172,80,low,never,2,5,3,travel critical,2,0,0,1,0,0,40,1.675
+male,33,182,84,med,quit,1,0,1,travel non critical,3,0,0,0,0,0,26,0.5
+male,26,176,70,low,yes,4,10,3,stopped,4,0,0,0,0,0,41,0.5
+male,18,174,62,blank,yes,1,21,3,travel critical,4,0,0,1,0,0,87,1.335
+female,34,160,86,high,quit,0,0,2,never,4,0,0,0,0,0,12,0.5
+female,45,172,100,med,never,4,4,2,travel critical,4,0,0,0,0,1,36,0.5
+female,40,164,80,med,yes,10,21,2,travel critical,3,0,0,0,0,0,89,0.5
+female,42,176,110,med,quit,11,21,3,travel critical,3,0,0,0,0,1,89,0.5
+female,46,176,104,med,never,1,21,5,travel non critical,4,0,0,0,0,0,87,0.5
+female,34,164,88,med,yes,2,1,2,stopped,4,0,0,0,0,0,17,0.5
+female,45,176,100,med,never,0,3,4,travel critical,3,0,0,0,0,0,35,0.5
+female,31,166,80,high,never,1,9,4,stopped,3,0,0,0,0,0,43,0.5
+female,22,164,166,blank,yes,7,10,3,travel non critical,4,0,1,1,0,0,74,1.032
+female,30,172,90,med,never,0,1,2,never,5,0,0,0,0,0,15,0.5
+female,33,164,92,med,never,2,3,2,stopped,4,0,0,0,0,0,23,5.191
+female,33,172,76,low,yes,13,2,2,home,5,0,0,0,0,0,18,0.5
+male,48,168,72,high,never,0,20,4,travel non critical,4,0,0,0,0,0,84,0.5
+male,67,178,76,med,never,7,1,2,never,2,0,0,0,0,0,22,2.49
+female,27,160,78,med,quit,3,2,3,travel critical,4,0,0,1,0,0,31,0.664
+female,15,152,52,med,yes,2,5,4,stopped,5,0,0,0,0,0,28.999,0.5
+female,40,166,100,med,yes,3,8,1,never,3,0,0,0,0,0,40,0.5
+male,45,194,102,med,quit,11,3,2,stopped,3,0,0,0,0,0,25,0.5
+male,42,186,74,low,yes,0,20,3,travel non critical,3,0,0,0,0,0,86,0.5
+female,20,158,44,med,yes,2,10,5,stopped,2,0,0,0,0,0,48,0.5
+female,23,162,84,med,never,0,21,1,travel non critical,5,0,0,0,0,0,85,0.5
+male,66,182,98,high,never,0,2,3,never,4,0,0,0,0,0,17,1.377
+female,70,162,74,med,never,1,10,2,travel critical,4,0,0,0,0,0,54,1.598
+male,50,176,96,high,never,1,3,4,stopped,4,0,0,0,0,0,23,7.752
+female,42,164,108,low,yes,7,16,4,travel critical,5,0,0,1,0,0,70,1.275
+male,40,190,100,high,never,0,12,8,stopped,2,0,0,0,0,0,54,0.5
+female,25,176,60,med,never,0,6,4,stopped,4,0,0,0,0,0,28.999,0.5
+female,25,172,80,low,quit,3,21,2,travel critical,5,0,0,1,0,1,85,0.928
+male,48,180,126,high,never,5,20,4,travel critical,3,0,0,0,0,0,86,0.569
+male,62,188,96,high,never,0,1,1,never,4,0,0,0,0,0,18,1.514
+female,76,162,130,gov,never,0,4,1,never,4,0,0,0,0,0,26,14.453
+female,59,166,72,med,quit,0,2,3,home,5,0,0,0,0,0,18,0.864
+female,42,158,124,low,never,10,21,2,travel critical,3,0,0,0,0,0,89,0.5
+female,29,174,96,low,never,13,4,2,travel non critical,4,0,0,0,0,0,36,6.458
+female,35,166,88,med,never,0,8,5,travel non critical,3,0,0,0,0,0,50,0.5
+female,40,178,72,med,quit,0,1,1,stopped,4,0,0,0,0,0,17,0.5
+female,50,174,114,high,never,0,3,4,never,4,0,0,0,0,0,23,1.281
+female,31,166,62,med,never,0,1,2,stopped,4,0,0,0,0,0,17,0.5
+female,22,154,48,med,never,0,5,4,stopped,4,0,0,0,0,0,28.999,0.5
+female,29,174,132,med,quit,0,12,4,never,4,0,0,1,0,0,50,9.71
+male,52,172,68,med,never,0,21,2,travel critical,3,0,0,0,0,0,89,0.971
+male,61,174,82,med,never,0,2,3,never,4,0,0,0,0,0,20,2.049
+male,52,180,112,med,never,1,2,3,stopped,5,0,0,1,0,0,18,2.452
+female,34,164,62,low,quit,0,15,2,stopped,4,0,0,0,0,0,59,0.5
+female,46,174,94,high,never,9,2,3,home,4,0,0,0,0,0,20,1.185
+female,30,172,84,low,never,1,15,4,travel critical,3,0,0,0,0,0,71,0.5
+female,32,170,78,med,never,4,21,2,stopped,3,0,0,0,0,0,79,0.5
+male,44,174,150,med,never,14,7,3,stopped,3,0,0,0,0,0,37,11.476
+female,64,168,78,low,quit,0,3,2,never,5,0,0,0,0,0,18,48.937
+male,48,162,70,high,never,4,3,4,stopped,4,0,0,0,0,0,23,0.5
+female,49,168,72,low,never,13,7,2,never,4,0,0,0,0,0,35,0.5
+female,17,166,100,low,never,0,2,3,stopped,5,0,0,0,0,0,18,0.5
+female,41,166,92,med,yes,13,10,3,stopped,4,0,0,0,0,0,44,0.675
+female,27,160,92,med,never,0,4,4,never,4,0,0,0,0,0,26,0.5
+female,55,170,90,high,never,14,15,2,never,3,0,0,0,0,0,61,0.509
+female,23,176,60,high,never,12,10,2,stopped,3,0,0,0,0,0,46,0.5
+female,43,184,86,high,never,7,1,2,home,5,0,0,1,0,0,15,8.51
+female,28,154,50,med,never,0,1,2,stopped,5,0,0,1,0,0,15,0.941
+female,40,162,92,med,never,0,10,2,travel non critical,4,0,0,0,0,0,54,0.5
+female,40,172,56,high,never,0,14,5,travel critical,4,0,1,0,0,1,86,0.5
+female,30,160,72,med,never,0,0,3,stopped,4,0,0,0,0,0,15,7.212
+female,25,174,62,med,yes,3,3,1,never,5,0,0,0,0,0,21,0.5
+female,34,160,66,low,never,11,1,2,stopped,4,0,0,0,0,0,17,0.5
+female,32,160,62,low,yes,14,2,2,stopped,4,0,0,1,0,0,20,6.997
+female,35,162,106,med,never,1,5,4,stopped,4,0,0,0,0,0,28.999,12.946
+female,66,164,106,med,never,0,5,1,stopped,4,0,0,0,0,0,28.999,34.681
+female,40,168,86,gov,never,1,1,1,stopped,4,0,0,1,0,0,14,1
+male,39,178,80,low,quit,3,2,2,stopped,5,0,0,0,0,0,18,0.5
+female,55,156,60,med,never,0,0,1,travel critical,3,0,1,1,0,1,43,1.256
+female,42,170,84,med,never,4,8,5,stopped,4,0,1,0,0,0,57.999,5.859
+female,42,158,76,med,never,1,4,2,stopped,4,0,0,0,0,0,26,8.612
+male,36,184,90,med,quit,0,0,2,never,4,0,0,0,0,0,14,0.5
+male,73,178,100,med,never,14,12,2,stopped,2,0,0,0,0,0,54,14.674
+female,35,164,88,high,never,0,7,4,never,4,0,0,0,0,0,35,0.5
+other,26,172,58,gov,never,0,4,1,stopped,4,0,0,1,0,0,26,2.514
+female,34,172,74,med,quit,3,1,2,stopped,3,0,0,0,0,0,19,0.5
+female,38,168,80,high,quit,2,4,3,stopped,4,0,0,1,0,0,26,0.757
+female,27,166,58,med,never,6,15,5,stopped,5,0,0,0,0,0,56.999,0.5
+female,33,160,92,med,yes,2,10,4,travel critical,3,0,0,0,0,0,56,8.904
+female,29,152,48,med,never,3,1,2,stopped,4,0,0,0,0,0,17,0.5
+female,31,158,64,med,quit,7,21,7,never,3,0,0,0,0,0,79,11.059
+female,40,164,76,low,never,8,2,2,stopped,3,0,0,0,0,0,22,0.5
+female,51,170,102,med,never,0,2,3,stopped,5,0,0,0,0,0,18,9.76
+female,49,160,58,med,never,0,5,2,never,4,0,0,0,0,0,27,19.064
+male,34,184,100,med,never,10,19,2,travel critical,2,0,0,0,0,0,85,0.5
+female,60,164,114,med,quit,0,21,2,travel critical,4,1,1,0,0,1,95,9.93
+female,42,178,122,med,never,4,15,3,stopped,4,0,0,0,0,0,59,0.5
+female,28,162,94,med,never,14,1,2,never,2,0,0,1,0,0,21,0.994
+male,37,176,84,med,never,4,7,1,home,3,0,0,0,0,0,37,0.5
