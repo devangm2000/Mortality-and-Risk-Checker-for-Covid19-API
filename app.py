@@ -118,5 +118,15 @@ def hello():
              # which returns "hello world"
               # username = request.args.get('username')
         # password = request.args.get('password') 
+
+
+@app.route("/")                   # at the end point /
+def hello1():
+        freqs1 = {
+        'testurl': 'https://risk-death-covid19-api.herokuapp.com/search?gen=0&age=1&hgt=0&wgt=0&inc=0&smk=1&alc=0&con=0&totpep=0&wrkng=0&masks=1&sym=0&coninf=37&asthma=166&lng=62&hlth=9',
+        'options':['search'],
+        'searchparams':'gender=gender,age=age,height=hgt,weight=wgt,income=inc,smoking=smk,alcoholic=alc,contacts=con,totalpeople=totpep,working=wrkng,masks=masks,symptoms=sym,contactsinfected=coninf,asthma=asthma,lung=lung,healthworker=hlth'
+        }
+        return  freqs1 
 if __name__ == "__main__":        # on running python app.py
     app.run()                     # run the flask app
