@@ -122,12 +122,13 @@ print("Accuracy for death risk test set",regressor2.score(X_test2,y_test2)*100,"
 @app.route("/")                   # at the end point /
 def hello1():
         freqs1 = {
-        'testriskurl': 'https://risk-death-covid19-api.herokuapp.com/risk?gen=0&age=18&hgt=123&wgt=34&inc=1&smk=1&alc=3&con=0&totpep=4&wrkng=1&masks=3&sym=2&coninf=0&asthma=0&lng=0&hlth=1',
+        'testriskurl': 'https://risk-death-covid19-api.herokuapp.com/risk?gen=0&age=18&hgt=123&wgt=34&inc=1&smk=1&alc=3&concnt=0&hcnt=4&wrkng=1&masks=3&sym=2&coninf=0&asthma=0&lung=0&hlth=1',
         'testdeathurl':'https://risk-death-covid19-api.herokuapp.com/death?gen=0&age=40&hgt=132&wgt=40&inc=4&smk=1&alc=12&bt=8&ins=1&concnt=20&hcnt=4&ptrnspt=5&wrkng=3&ssocdis=1&swashnds=1&hsocdis=1&hwashnds=1&san=3&masks=2&sym=1&coninf=0&asthma=0&kidney=0&liver=0&cmpimm=0&heart=1&lung=0&diabetes=0&hiv=0&hyprt=1&otherchr=0&nrsng=0&hwork=0',
+        'testdeathandriskurl':'https://risk-death-covid19-api.herokuapp.com/deathandrisk?gen=0&age=40&hgt=132&wgt=40&inc=4&smk=1&alc=12&bt=8&ins=1&concnt=20&hcnt=4&ptrnspt=5&wrkng=3&ssocdis=1&swashnds=1&hsocdis=1&hwashnds=1&san=3&masks=2&sym=1&coninf=0&asthma=0&kidney=0&liver=0&cmpimm=0&heart=1&lung=0&diabetes=0&hiv=0&hyprt=1&otherchr=0&nrsng=0&hwork=0',
         'options':['search'],
-        'riskparams':'gender=gender,age=age,height=hgt,weight=wgt,income=inc,smoking=smk,alcoholic=alc,contacts=con,totalpeople=totpep,working=wrkng,masks=masks,symptoms=sym,contactsinfected=coninf,asthma=asthma,lung=lung,healthworker=hlth',
+        'riskparams':'gender=gender,age=age,height=hgt,weight=wgt,income=inc,smoking=smk,alcohol_consumed=alc,contacts_count=concnt,housecount=hcnt,working=wrkng,masks=masks,symptoms=sym,contactsinfected=coninf,asthma=asthma,lung=lung,health_worker=hlth',
         }
-        return  freqs1 
+        return  jsonify(freqs1) 
 
 
 @app.route("/risk")                   # at the end point /
@@ -140,45 +141,30 @@ def hello2():
         income=int(request.args.get('inc'))
         smoking=int(request.args.get('smk'))
         alcohol=int(request.args.get('alc'))
-        contacts=int(request.args.get('con'))
-        totalpeople=int(request.args.get('totpep'))
+        contacts_count = int(request.args.get('concnt'))
+        housecount = int(request.args.get('hcnt'))
         working=int(request.args.get('wrkng'))
         masks=int(request.args.get('masks'))
         symptoms=int(request.args.get('sym'))
         contactsinfected=int(request.args.get('coninf'))
         asthma=int(request.args.get('asthma'))
-        lung=int(request.args.get('lng'))
-        healthworker=int(request.args.get('hlth'))
+        lung=int(request.args.get('lung'))
+        health_worker=int(request.args.get('hlth'))
 
-        new_input_covid=np.array([[gender,age,height,weight,income,smoking,alcohol,contacts,totalpeople,working,masks,symptoms,contactsinfected,asthma,lung,healthworker]])
+        new_input_covid=np.array([[gender,age,height,weight,income,smoking,alcohol,contacts_count,housecount,working,masks,symptoms,contactsinfected,asthma,lung,health_worker]])
         new_input_covid1=new_input_covid.reshape(1,-1)
         new_output_covid= regressor1.predict(new_input_covid1)
         print("\nRisk of getting covid-19", abs(new_output_covid),"%")
         freqs2 = {
         'predictedoutput': abs(new_output_covid[0])
         }
-        return  freqs2 
+        return  jsonify(freqs2) 
 
 
-@app.route("/death")                   # at the end point /
-def deaths():
+@app.route("/deathandrisk")                   # at the end point /
+def deathrisk():
         
-        # gender=int(request.args.get('gen'))
-        # age=int(request.args.get('age'))
-        # height=int(request.args.get('hgt'))
-        # weight=int(request.args.get('wgt'))
-        # income=int(request.args.get('inc'))
-        # smoking=int(request.args.get('smk'))
-        # alcohol=int(request.args.get('alc'))
-        # contacts=int(request.args.get('con'))
-        # totalpeople=int(request.args.get('totpep'))
-        # working=int(request.args.get('wrkng'))
-        # masks=int(request.args.get('masks'))
-        # symptoms=int(request.args.get('sym'))
-        # contactsinfected=int(request.args.get('coninf'))
-        # asthma=int(request.args.get('asthma'))
-        # lung=int(request.args.get('lng'))
-        # healthworker=int(request.args.get('hlth'))
+    
         gender = int(request.args.get('gen'))
         age = int(request.args.get('age'))
         height = int(request.args.get('hgt'))
@@ -213,15 +199,77 @@ def deaths():
         nursing_home = int(request.args.get('nrsng'))
         health_worker = int(request.args.get('hwork'))
 
+        # risk
+        new_input_covid=np.array([[gender,age,height,weight,income,smoking,alcohol,contacts_count,housecount,working,masks,symptoms,contactsinfected,asthma,lung,health_worker]])
+        new_input_covid1=new_input_covid.reshape(1,-1)
+        new_output_covid= regressor1.predict(new_input_covid1)
+        print("\nRisk of getting covid-19", abs(new_output_covid),"%")
+
+        # death
         new_input_death=np.array([[[gender,age,height,weight,income,smoking,alcohol,blood_type,insurance,contacts_count,housecount,public_transport,working,self_social_distancing,self_washing_hands,house_social_distancing,house_washing_hands,sanitizer,masks,symptoms,contactsinfected,asthma,kidney_disease,liver_disease,compromised_immune,heart_disease,lung,diabetes,hiv_positive,hypertension,other_chronic,nursing_home,health_worker]]])
         new_input_death1=new_input_death.reshape(1,-1)
         new_output_death= regressor2.predict(new_input_death1)
         print("\nRisk of dying from covid-19", abs(new_output_death),"%")
-        finaloutput=abs(new_output_death)[0]
+
+        freqs4 = {
+        'death': abs(new_output_death)[0],
+        'risk': abs(new_output_covid)[0]
+        }
+        return  jsonify(freqs4)
+
+
+
+@app.route("/death")                   # at the end point /
+def death():
+        
+    
+        gender = int(request.args.get('gen'))
+        age = int(request.args.get('age'))
+        height = int(request.args.get('hgt'))
+        weight = int(request.args.get('wgt'))
+        income = int(request.args.get('inc'))
+        smoking = int(request.args.get('smk'))
+        alcohol = int(request.args.get('alc'))
+        blood_type = int(request.args.get('bt'))
+        insurance = int(request.args.get('ins'))
+        contacts_count = int(request.args.get('concnt'))
+        housecount = int(request.args.get('hcnt'))
+        public_transport = int(request.args.get('ptrnspt'))
+        working = int(request.args.get('wrkng'))
+        self_social_distancing = int(request.args.get('ssocdis'))
+        self_washing_hands = int(request.args.get('swashnds'))
+        house_social_distancing = int(request.args.get('hsocdis'))
+        house_washing_hands = int(request.args.get('hwashnds'))
+        sanitizer = int(request.args.get('san'))
+        masks = int(request.args.get('masks'))
+        symptoms = int(request.args.get('sym'))
+        contactsinfected = int(request.args.get('coninf'))
+        asthma = int(request.args.get('asthma'))
+        kidney_disease = int(request.args.get('kidney'))
+        liver_disease = int(request.args.get('liver'))
+        compromised_immune = int(request.args.get('cmpimm'))
+        heart_disease = int(request.args.get('heart'))
+        lung = int(request.args.get('lung'))
+        diabetes = int(request.args.get('diabetes'))
+        hiv_positive = int(request.args.get('hiv'))
+        hypertension = int(request.args.get('hyprt'))
+        other_chronic = int(request.args.get('otherchr'))
+        nursing_home = int(request.args.get('nrsng'))
+        health_worker = int(request.args.get('hwork'))
+
+        # death
+        new_input_death=np.array([[[gender,age,height,weight,income,smoking,alcohol,blood_type,insurance,contacts_count,housecount,public_transport,working,self_social_distancing,self_washing_hands,house_social_distancing,house_washing_hands,sanitizer,masks,symptoms,contactsinfected,asthma,kidney_disease,liver_disease,compromised_immune,heart_disease,lung,diabetes,hiv_positive,hypertension,other_chronic,nursing_home,health_worker]]])
+        new_input_death1=new_input_death.reshape(1,-1)
+        new_output_death= regressor2.predict(new_input_death1)
+        print("\nRisk of dying from covid-19", abs(new_output_death),"%")
+
         freqs3 = {
-        'predictedoutput': finaloutput
+        'predictedoutput': abs(new_output_death)[0],
         }
         return  jsonify(freqs3)
+
+
+
 
 if __name__ == "__main__":        # on running python app.py
     app.run()                     # run the flask app
