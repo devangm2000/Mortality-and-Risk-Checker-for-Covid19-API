@@ -10,8 +10,9 @@ from sklearn.linear_model import LinearRegression
 import pickle
 import requests
 import json
+from flask_cors import CORS
 app = Flask(__name__)             # create an app instance
-
+CORS(app)
 
 dataset = pd.read_csv('data1.csv')
 
