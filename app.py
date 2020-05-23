@@ -10,7 +10,7 @@ from sklearn.linear_model import LinearRegression
 import pickle
 import requests
 import json
-from flask_cors import CORS
+from flask_cors import CORS     
 app = Flask(__name__)             # create an app instance
 CORS(app)
 
@@ -269,6 +269,12 @@ def death():
         }
         return  jsonify(freqs3)
 
+@app.after_request
+def after_request(response):
+  response.headers.add('Access-Control-Allow-Origin', '*')
+  response.headers.add('Access-Control-Allow-Headers', 'Content-Type,Authorization')
+  response.headers.add('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE,OPTIONS')
+  return response
 
 
 
