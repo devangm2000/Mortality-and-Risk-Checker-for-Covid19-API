@@ -122,7 +122,7 @@ print("Accuracy for death risk test set",regressor2.score(X_test2,y_test2)*100,"
 @app.route("/")                   # at the end point /
 def hello1():
         freqs1 = {
-        'testriskurl': 'https://risk-death-covid19-api.herokuapp.com/risk?gen=0&age=1&hgt=0&wgt=0&inc=0&smk=1&alc=0&con=0&totpep=0&wrkng=0&masks=1&sym=0&coninf=37&asthma=166&lng=62&hlth=9',
+        'testriskurl': 'https://risk-death-covid19-api.herokuapp.com/risk?gen=0&age=18&hgt=123&wgt=34&inc=1&smk=1&alc=3&con=0&totpep=4&wrkng=1&masks=3&sym=2&coninf=0&asthma=0&lng=0&hlth=1',
         'testdeathurl':'https://risk-death-covid19-api.herokuapp.com/death?gen=0&age=40&hgt=132&wgt=40&inc=4&smk=1&alc=12&bt=8&ins=1&concnt=20&hcnt=4&ptrnspt=5&wrkng=3&ssocdis=1&swashnds=1&hsocdis=1&hwashnds=1&san=3&masks=2&sym=1&coninf=0&asthma=0&kidney=0&liver=0&cmpimm=0&heart=1&lung=0&diabetes=0&hiv=0&hyprt=1&otherchr=0&nrsng=0&hwork=0',
         'options':['search'],
         'riskparams':'gender=gender,age=age,height=hgt,weight=wgt,income=inc,smoking=smk,alcoholic=alc,contacts=con,totalpeople=totpep,working=wrkng,masks=masks,symptoms=sym,contactsinfected=coninf,asthma=asthma,lung=lung,healthworker=hlth',
