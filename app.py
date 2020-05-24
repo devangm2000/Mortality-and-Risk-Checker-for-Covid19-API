@@ -214,7 +214,11 @@ def deathrisk():
 
         freqs4 = {
         'death': abs(new_output_death)[0],
-        'risk': abs(new_output_covid)[0]
+        'risk': abs(new_output_covid)[0],
+        "Accuracy for covid risk training set":regressor1.score(X_train1,y_train1)*100,
+        "Accuracy for covid risk test set":regressor1.score(X_test1,y_test1)*100,
+        "Accuracy for death risk training set":regressor2.score(X_train2,y_train2)*100,
+        "Accuracy for death risk test set":regressor2.score(X_test2,y_test2)*100
         }
         return  jsonify(freqs4)
 
