@@ -1,0 +1,633 @@
+sex,age,height,weight,bmi,blood_type,insurance,income,race,immigrant,smoking,alcohol,contacts_count,house_count,public_transport_count,working,worried,rate_reducing_risk_single,rate_reducing_risk_single_social_distancing,rate_reducing_risk_single_washing_hands,rate_reducing_risk_house,rate_reducing_risk_house_social_distancing,rate_reducing_risk_house_washing_hands,rate_reducing_risk_single_sanitizer,rate_reducing_mask,covid19_symptoms,covid19_contact,asthma,kidney_disease,liver_disease,compromised_immune,heart_disease,lung_disease,diabetes,hiv_positive,hypertension,other_chronic,nursing_home,health_worker,risk_infection,risk_mortality
+female,29,162,62,23.6,unknown,yes,low,white,native,never,5,10,3,0,travel critical,4,0,1,1,0,1,1,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52,0.5
+male,27,176,102,32.9,op,no,gov,white,native,never,-1,1,2,0,stopped,5,0,2,2,0,2,2,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0.5
+female,39,166,68,24.6,unknown,no,low,white,immigrant,quit,4,15,2,0,home,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,59,0.5
+female,30,166,112,40.6,unknown,yes,med,white,native,never,0,5,5,0,travel critical,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0.5
+female,38,170,94,32.5,abn,yes,high,hispanic,native,quit,-1,0,1,0,stopped,4,0,2,2,0,0,0,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0.5
+female,49,172,62,20.9,unknown,yes,med,white,native,never,1,1,5,0,never,4,0,1,1,0,1,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0.5
+female,40,160,50,19.5,bn,no,low,white,native,yes,8,5,3,0,stopped,4,0,1,-1,0,1,-1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,0.5
+female,71,168,90,31.8,bp,yes,med,white,native,never,-1,1,2,0,stopped,4,0,1,1,0,1,1,1,4,0,0,1,0,0,0,0,1,1,0,1,0,0,1,17,30.649
+other,33,194,88,23.3,unknown,yes,med,white,native,never,0,1,2,0,never,4,0,2,1,0,2,2,1,5,0,0,1,0,0,1,0,0,0,0,0,1,0,0,15,12.628
+female,43,174,84,27.7,ap,yes,low,white,native,never,3,21,4,0,travel non critical,4,0,1,1,0,1,1,-1,5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,85,0.5
+female,51,166,64,23.2,op,no,gov,white,native,yes,0,1,2,0,stopped,4,0,1,2,0,2,2,1,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,15,1.939
+female,48,168,62,21.9,unknown,yes,med,white,native,never,-1,6,4,0,travel non critical,4,0,1,1,0,1,1,-1,4,0,0,0,0,0,0,0,0,0,0,0,1,1,0,42,1.611
+female,26,160,114,44.5,unknown,yes,low,white,native,never,4,11,1,0,stopped,4,0,1,0,0,1,0,-2,4,0,0,1,0,0,0,0,0,1,0,0,1,0,0,47,10.14
+female,31,168,64,22.6,ap,yes,med,white,native,never,0,21,4,0,travel critical,4,0,1,1,0,1,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,89,0.5
+female,36,178,72,22.7,unknown,yes,med,white,native,quit,-1,1,1,0,stopped,4,0,1,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0.5
+female,56,174,70,23.1,on,no,low,white,native,never,-1,2,3,0,never,4,0,2,2,0,2,2,0,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,18,1.505
+female,73,164,62,23,unknown,no,high,mixed,immigrant,quit,2,1,2,0,never,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,4.605
+female,41,162,92,35,unknown,yes,med,white,native,never,0,10,2,0,travel non critical,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,54,0.5
+male,45,176,70,22.5,ap,yes,med,mixed,native,never,2,5,3,0,travel critical,3,0,1,1,0,1,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,41,2.104
+female,50,174,94,31,unknown,yes,med,white,native,quit,2,10,2,0,travel non critical,3,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,54,0.939
+male,30,172,100,33.8,on,yes,med,white,native,never,3,5,2,0,stopped,3,0,2,0,0,2,1,-2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28.999,0.5
+female,35,170,66,22.8,ap,yes,med,white,native,yes,7,4,3,0,home,5,0,2,1,0,1,1,0,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,26,10.916
+female,20,176,86,27.7,unknown,yes,med,white,native,yes,14,10,7,0,travel non critical,3,0,0,0,0,0,0,1,2,0,1,1,0,0,0,0,0,0,0,0,0,1,0,78,0.967
+female,29,172,80,27,unknown,yes,low,hispanic,native,quit,3,21,2,0,travel critical,5,0,2,2,0,2,2,2,5,0,0,1,0,0,0,0,0,0,0,0,0,0,1,85,0.928
+male,38,178,84,26.5,unknown,yes,high,white,native,never,0,6,2,0,stopped,4,0,1,2,0,2,2,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0.5
+female,27,164,88,32.7,an,yes,low,hispanic,native,quit,-1,2,2,0,home,4,0,2,2,0,2,2,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0.5
+female,42,164,78,29,an,yes,med,white,native,never,0,21,5,0,travel non critical,3,0,1,1,0,0,1,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,0,91,1.413
+female,42,174,114,37.6,unknown,yes,med,white,native,never,1,3,2,0,stopped,4,0,1,1,0,2,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0.5
+female,47,172,98,33.1,bp,yes,med,mixed,native,quit,0,10,1,0,travel non critical,4,0,1,1,0,0,0,1,4,0,0,1,0,0,0,0,0,0,0,0,0,1,0,51,1.287
+female,29,174,62,20.4,unknown,no,med,white,native,yes,3,3,1,0,never,4,0,2,2,0,2,0,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0.5
+female,28,162,100,38.1,ap,yes,med,white,native,never,5,8,2,0,stopped,5,0,1,2,0,0,2,2,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,40,1.241
+female,40,162,68,25.9,ap,yes,high,mixed,native,yes,5,21,2,0,travel critical,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,87,0.5
+male,53,176,126,40.6,ap,yes,high,white,native,never,3,8,2,0,travel critical,2,0,0,1,0,1,1,1,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,50,3.777
+female,20,170,78,26.9,op,no,low,white,native,never,10,4,4,0,stopped,3,0,2,2,0,2,2,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0.5
+male,36,178,80,25.2,unknown,no,low,white,native,quit,3,2,2,0,stopped,5,0,2,2,0,1,2,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0.5
+male,42,184,110,32.4,ap,yes,low,white,native,never,0,4,2,0,travel critical,4,0,1,1,0,1,0,0,4,0,0,0,0,0,1,0,0,0,0,1,0,0,0,36,26.211
+female,28,166,52,18.8,unknown,yes,med,white,native,never,2,2,3,0,stopped,3,0,1,1,0,1,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0.5
+female,24,176,108,34.8,on,yes,med,white,native,quit,-1,2,3,0,stopped,3,0,1,1,0,1,1,-1,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,18,1.007
+male,38,194,78,20.7,unknown,yes,low,white,native,quit,9,5,2,0,stopped,3,0,1,1,0,1,1,1,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,31,10.201
+female,29,154,48,20.2,unknown,yes,med,white,native,never,0,5,4,0,stopped,3,0,1,1,0,1,1,-1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28.999,0.5
+female,27,176,74,23.8,unknown,yes,low,white,immigrant,never,0,5,2,0,stopped,4,0,1,1,0,1,1,-1,4,0,0,0,0,0,1,0,0,0,0,0,1,0,0,28.999,10.367
+female,36,174,98,32.3,ap,yes,med,white,native,yes,4,1,1,0,stopped,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,17,10.121
+female,32,168,50,17.7,unknown,yes,low,white,native,yes,2,4,1,0,stopped,4,0,1,1,0,0,0,2,4,0,0,0,0,0,1,0,0,0,0,0,1,0,0,26,11.63
+male,39,180,100,30.8,op,yes,high,white,native,never,1,1,2,0,never,4,0,2,1,0,2,1,-1,5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,15,7.24
+male,50,178,84,26.5,ap,yes,med,white,native,never,-1,9,3,0,never,4,0,0,1,0,0,1,1,5,0,0,0,0,1,0,0,0,1,1,0,0,0,0,39,15.234
+female,65,164,82,30.4,ap,yes,high,white,native,never,2,2,3,0,stopped,4,0,1,1,0,1,1,1,4,0,0,1,0,0,0,0,0,0,0,1,0,0,1,20,13.144
+male,30,180,124,38.2,unknown,yes,med,white,native,never,-1,6,2,0,stopped,3,0,1,2,0,2,2,2,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,31,9.5
+female,39,176,58,18.7,unknown,yes,med,white,native,yes,2,5,5,0,travel critical,4,0,1,1,0,1,1,0,5,0,0,0,0,0,1,0,0,0,0,0,1,0,0,37,10.526
+female,45,164,108,40.1,abn,yes,low,white,native,yes,7,16,4,0,travel critical,5,0,2,2,0,2,2,1,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,70,1.275
+female,49,182,70,21.1,unknown,yes,med,white,native,quit,2,3,4,0,never,4,0,0,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0.526
+female,43,158,76,30.4,unknown,yes,med,white,native,never,1,4,2,0,stopped,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,26,8.612
+female,24,168,94,33.3,ap,yes,med,white,native,never,4,4,2,0,stopped,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0.5
+female,40,168,58,20.5,ap,yes,med,white,native,never,13,1,3,0,travel critical,4,0,1,1,0,1,1,1,3,0,1,0,0,0,0,0,0,0,0,0,1,0,1,49,1.792
+female,52,158,88,35.2,bn,yes,low,white,native,never,6,12,1,0,travel critical,4,0,1,2,0,1,1,0,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,80,1.272
+female,38,168,80,28.3,op,yes,high,white,native,quit,2,4,3,0,stopped,3,0,1,2,0,1,2,0,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,26,0.757
+female,48,160,58,22.6,ap,yes,med,other,immigrant,never,-1,5,2,0,never,4,0,1,1,0,0,0,-1,4,0,0,0,0,0,0,0,0,1,0,1,0,0,0,27,19.064
+female,36,162,62,23.6,ap,yes,med,white,native,never,2,7,6,0,stopped,3,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0.5
+male,58,182,96,28.9,abn,yes,high,white,immigrant,quit,12,0,1,0,stopped,3,0,0,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,1.63
+female,42,164,54,20,unknown,yes,med,white,native,never,2,14,2,0,never,3,0,1,1,0,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57.999,0.5
+female,45,164,68,25.2,ap,yes,med,white,native,quit,9,5,5,0,never,3,0,1,1,0,0,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28.999,0.765
+female,64,166,62,22.4,ap,yes,high,asian,immigrant,quit,10,1,2,0,stopped,4,0,1,1,0,1,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,3.164
+female,39,164,94,34.9,on,no,low,white,native,yes,2,5,6,0,stopped,3,0,1,1,0,0,1,1,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,31,1.091
+male,42,178,92,29,op,yes,med,white,native,never,0,7,3,0,stopped,3,0,0,1,0,0,1,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,0.5
+female,26,170,86,29.7,ap,no,med,white,native,quit,8,4,2,0,travel critical,4,0,1,1,0,1,1,-1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,0.5
+female,31,170,62,21.4,unknown,yes,med,white,native,never,4,14,4,0,stopped,4,0,1,1,0,1,1,1,3,0,0,1,0,0,1,0,0,0,0,0,0,0,0,57.999,10.026
+female,48,164,86,31.9,op,yes,high,white,native,never,0,11,8,0,stopped,5,0,1,1,0,1,0,-1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,0.5
+male,40,182,78,23.5,on,yes,high,asian,native,never,3,1,2,0,stopped,3,0,1,1,0,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0.5
+other,25,160,72,28.1,op,no,low,white,native,yes,14,1,2,0,stopped,5,0,2,2,0,2,2,-1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0.5
+male,35,182,104,31.3,unknown,yes,high,white,native,quit,8,2,3,0,stopped,3,0,2,2,0,2,2,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0.5
+female,41,166,90,32.6,an,yes,high,white,native,never,0,1,2,0,never,4,0,1,1,0,1,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0.792
+male,39,168,66,23.3,op,yes,high,hispanic,native,never,1,6,3,0,never,2,0,1,0,0,1,0,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0.5
+female,43,158,84,33.6,op,yes,med,white,native,quit,6,4,4,0,stopped,4,0,1,1,0,1,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,0.5
+male,28,188,88,24.8,abn,yes,med,asian,native,never,3,2,3,0,stopped,5,0,2,2,0,2,2,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0.5
+male,53,174,156,51.5,unknown,yes,gov,white,native,never,-1,2,1,0,never,3,0,0,1,0,0,0,-1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,1.299
+female,29,160,76,29.6,unknown,yes,low,white,native,yes,14,7,2,0,travel non critical,4,0,1,1,0,0,0,-2,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,47,0.5
+female,51,166,88,31.9,op,yes,med,white,native,never,-1,10,2,0,travel non critical,3,0,1,1,0,1,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,56,0.661
+male,35,190,126,34.9,unknown,yes,med,white,native,yes,4,3,2,2,stopped,4,0,1,2,0,0,2,0,2,0,0,1,0,0,0,0,0,0,0,1,0,0,0,28,11.334
+male,38,184,96,28.3,an,yes,low,white,native,quit,0,4,2,0,travel critical,5,0,2,2,0,2,2,0,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,34,1.432
+female,37,168,98,34.7,ap,yes,med,white,native,yes,0,21,4,0,travel critical,3,0,1,1,0,1,1,0,4,0,0,1,0,0,1,0,0,0,0,1,0,0,0,87,22.284
+male,30,180,82,25.3,op,yes,med,white,native,quit,5,21,3,0,travel non critical,3,0,2,1,0,1,0,-1,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,89,0.5
+male,47,188,94,26.5,ap,yes,med,white,native,quit,2,21,5,0,stopped,3,0,1,1,0,1,1,-1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,79,0.5
+male,55,178,68,21.4,ap,yes,high,white,native,never,3,3,3,0,stopped,3,0,1,1,0,1,1,-1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,1.686
+female,26,168,70,24.8,unknown,yes,med,white,native,never,-1,5,5,0,never,2,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,26,7.226
+male,47,174,104,34.3,op,yes,high,white,native,never,14,10,5,0,travel critical,3,0,1,1,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53,0.544
+male,51,190,100,27.7,an,yes,high,white,native,never,3,3,3,0,travel non critical,4,0,1,1,0,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,35,1.198
+female,40,166,100,36.2,an,yes,high,white,native,never,4,1,2,0,never,5,0,2,2,0,2,2,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0.5
+female,50,162,64,24.3,unknown,yes,med,white,native,quit,-1,15,2,0,never,4,0,1,1,0,0,0,1,4,0,0,0,0,0,0,0,0,1,0,1,1,0,0,59,16.962
+female,34,166,58,21,op,no,low,white,native,quit,0,3,3,0,never,3,0,1,1,0,2,2,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0.5
+male,36,182,86,25.9,op,yes,med,white,native,quit,4,4,3,0,travel critical,3,0,1,1,0,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42,0.5
+female,40,164,94,34.9,bp,yes,med,white,native,never,4,10,6,0,travel critical,4,0,1,2,0,2,2,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54,0.5
+female,34,166,68,24.6,unknown,yes,high,white,native,never,2,10,2,0,travel non critical,2,0,1,1,0,1,1,2,4,0,0,1,0,0,0,0,0,0,0,0,0,1,0,56,0.987
+female,32,174,112,36.9,op,yes,med,white,native,never,0,4,2,0,stopped,3,0,1,2,0,1,2,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0.5
+female,39,160,98,38.2,abp,yes,med,white,immigrant,never,0,3,4,0,home,3,0,2,2,0,2,2,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0.5
+female,60,168,78,27.6,unknown,no,med,white,native,never,14,2,3,0,home,4,0,1,1,0,1,1,-1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,1.867
+female,56,174,118,38.9,unknown,yes,med,white,native,quit,1,5,1,0,stopped,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,1,0,0,0,1,0,0,0,28.999,33.157
+female,24,168,80,28.3,abp,yes,med,white,native,quit,0,4,4,0,never,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0.5
+female,22,174,88,29,unknown,no,low,white,native,quit,-1,4,2,0,travel non critical,5,0,2,2,0,2,2,2,5,0,0,1,0,0,0,0,0,0,0,0,0,1,0,34,0.942
+female,48,178,96,30.2,op,yes,med,white,native,quit,-1,1,2,0,home,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0.5
+female,27,164,56,20.8,ap,yes,med,hispanic,immigrant,never,-1,3,3,1,never,4,0,1,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0.5
+female,25,166,50,18.1,unknown,yes,med,white,native,never,-1,21,2,0,travel critical,4,0,1,1,0,0,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,87,0.5
+male,40,178,90,28.4,ap,yes,high,black,native,never,-1,5,5,0,never,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,1,0,0,1,27,12.617
+female,10,158,44,17.6,on,yes,low,mixed,native,never,-1,4,4,0,stopped,3,0,2,1,0,2,1,-2,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,24,1.04
+female,23,166,64,23.2,abp,yes,med,white,native,quit,-1,1,2,0,stopped,5,0,2,2,0,2,2,0,5,0,0,1,0,0,1,0,0,0,0,1,1,0,0,15,19.401
+male,48,162,70,26.6,ap,yes,high,white,native,never,4,3,4,0,stopped,3,0,1,1,0,1,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0.5
+female,50,156,104,42.7,ap,yes,med,white,native,quit,-1,1,2,0,never,4,0,1,1,0,-1,1,1,3,0,0,1,0,1,1,1,1,0,0,1,1,0,0,19,66.889
+female,46,166,112,40.6,ap,yes,med,white,native,quit,11,5,5,0,never,4,0,2,2,0,1,2,2,5,0,0,1,0,0,1,0,0,0,0,0,0,0,0,24,13.562
+female,55,168,90,31.8,unknown,yes,med,white,native,never,0,3,3,0,never,4,0,1,2,0,2,2,1,4,0,0,0,0,0,0,0,0,0,0,1,1,0,0,23,10.597
+male,42,190,114,31.5,op,yes,high,white,native,never,1,6,6,0,never,3,0,2,2,0,2,2,2,5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,30,7.348
+female,36,172,124,41.9,on,yes,med,white,immigrant,quit,2,1,2,0,stopped,4,0,2,1,0,2,1,-2,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,15,1.066
+female,23,172,82,27.7,on,yes,low,white,native,never,1,8,4,0,stopped,4,0,1,1,0,-1,1,0,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,38,0.642
+female,42,164,78,29,abp,yes,med,white,native,yes,-1,9,2,0,travel critical,2,0,1,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,0.614
+female,56,162,66,25.1,op,yes,med,white,native,yes,-1,2,1,0,travel critical,4,0,1,1,0,2,1,1,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,30,1.329
+female,57,162,58,22.1,bp,yes,med,white,native,never,-1,6,3,0,stopped,3,0,1,1,0,0,1,-1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0.788
+female,30,160,50,19.5,bn,yes,med,white,native,never,1,6,5,0,never,3,0,2,1,0,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,0.5
+female,37,164,60,22.3,unknown,yes,med,white,native,never,0,3,4,0,home,3,0,1,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0.5
+male,34,176,84,27.1,on,yes,med,hispanic,immigrant,never,0,2,2,0,never,3,0,1,2,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0.5
+female,32,170,80,27.6,bn,yes,high,white,native,never,2,5,3,0,stopped,5,0,2,2,0,2,2,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,27,9.196
+male,67,186,94,27.1,bn,yes,high,white,native,never,7,21,4,0,never,4,0,1,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,77,2.215
+female,76,160,78,30.4,ap,yes,med,white,native,never,1,20,1,0,never,5,0,2,2,0,0,0,2,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,72,6.343
+female,43,156,80,32.8,unknown,yes,med,white,native,quit,0,4,4,0,travel critical,4,0,1,1,0,1,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,0.5
+female,59,160,62,24.2,abp,no,med,white,native,never,0,2,2,0,never,3,0,1,1,0,1,1,-1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,1.083
+female,48,178,132,41.6,on,yes,med,white,immigrant,never,2,3,2,0,home,4,0,1,0,0,1,1,1,3,0,0,0,0,0,0,0,0,1,0,1,0,0,0,25,11.659
+other,29,166,112,40.6,unknown,yes,high,white,native,yes,4,1,2,0,never,5,0,1,1,0,1,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0.5
+female,51,172,96,32.4,unknown,yes,med,white,native,quit,6,1,2,0,never,3,0,1,2,0,1,1,-2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,1.165
+male,38,194,180,47.8,ap,yes,high,white,native,quit,0,10,5,0,stopped,3,0,1,1,0,1,1,1,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,48,13.104
+female,37,172,76,25.6,op,yes,low,white,immigrant,yes,13,2,2,0,home,4,0,1,1,0,1,1,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0.5
+female,42,182,114,34.4,ap,no,med,white,native,quit,0,20,3,0,stopped,4,0,1,1,0,1,1,0,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,74,11.607
+female,50,156,122,50.1,bp,yes,high,hispanic,native,never,7,3,2,0,never,3,0,0,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0.5
+female,40,168,80,28.3,op,yes,high,white,native,never,5,21,2,0,travel critical,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,1,0,0,1,87,5.743
+female,51,182,112,33.8,ap,yes,med,white,native,quit,2,0,1,0,stopped,3,0,2,1,0,2,2,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,1.388
+female,38,156,70,28.7,bp,yes,med,white,native,yes,-1,5,3,0,never,4,0,1,2,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28.999,0.5
+female,45,172,100,33.8,bp,yes,high,white,native,never,2,6,4,0,never,3,0,1,2,0,1,2,1,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,34,1.274
+female,40,170,70,24.2,abp,yes,high,white,native,never,2,4,4,0,stopped,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0.5
+female,36,162,106,40.3,bp,yes,med,white,native,never,-1,7,2,0,travel critical,4,0,1,1,0,1,1,0,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,45,8.918
+female,31,164,88,32.7,ap,no,med,white,native,never,0,21,2,0,travel non critical,3,0,1,0,0,1,2,0,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,87,0.5
+male,35,184,90,26.5,unknown,yes,med,hispanic,native,quit,12,21,2,0,travel critical,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,87,0.5
+female,26,164,66,24.5,abp,yes,med,white,native,yes,6,7,5,0,travel critical,3,0,1,1,0,2,2,2,5,0,0,1,0,0,0,0,0,0,0,0,0,0,1,43,0.915
+male,7,138,52,27.3,ap,no,low,white,native,never,-1,1,2,0,stopped,4,0,1,0,0,1,1,0,4,0,0,1,0,0,1,0,1,0,0,0,1,0,0,17,32.34
+female,68,158,68,27.2,bp,yes,med,hispanic,native,never,0,2,3,0,never,3,0,2,1,0,1,1,1,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,18,13.122
+male,58,186,108,31.2,unknown,yes,med,white,native,never,1,1,2,0,never,4,0,1,1,0,2,2,-1,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,17,11.269
+female,40,158,134,53.6,on,no,med,white,immigrant,never,-1,4,4,1,stopped,4,0,2,2,0,2,2,-2,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,27,0.889
+female,54,160,72,28.1,op,yes,high,white,native,never,0,3,2,0,never,4,0,2,1,0,0,0,2,5,0,0,0,0,0,0,0,0,1,0,1,0,0,0,21,11.591
+female,50,174,72,23.7,unknown,yes,med,white,native,quit,10,21,5,0,travel critical,3,0,0,0,0,1,0,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,87,0.5
+female,36,164,94,34.9,op,yes,med,white,native,yes,7,7,4,0,travel critical,3,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,45,0.5
+female,34,154,112,47.2,unknown,yes,med,white,native,quit,1,2,3,0,home,4,0,2,2,0,2,2,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,21,1.129
+female,47,162,94,35.8,op,no,med,white,native,yes,14,9,3,0,travel critical,3,0,1,1,0,1,1,1,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,51,0.896
+male,47,176,102,32.9,op,yes,med,white,native,quit,1,5,4,0,stopped,3,0,2,2,0,2,1,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28.999,0.5
+female,44,162,140,53.3,unknown,yes,low,white,native,never,2,21,4,0,travel critical,3,0,1,1,0,-1,0,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,87,0.5
+female,46,164,64,23.7,unknown,yes,med,white,native,never,1,1,2,0,home,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0.5
+male,26,176,90,29,unknown,yes,med,white,native,never,1,10,5,0,stopped,3,0,1,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,46,0.5
+female,50,158,50,20,ap,yes,high,white,native,never,4,15,3,0,home,3,0,1,1,0,0,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61,0.9
+female,47,174,118,38.9,on,yes,med,white,native,quit,2,21,6,0,travel critical,3,0,1,1,0,2,1,1,5,0,0,1,0,0,1,0,0,0,0,0,1,0,0,85,8.76
+female,42,158,56,22.4,bp,no,med,white,native,quit,0,6,3,0,stopped,3,0,1,1,0,0,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34,0.5
+female,67,182,78,23.5,ap,yes,high,white,native,never,9,5,4,0,home,2,0,1,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,1.848
+male,56,172,68,22.9,unknown,yes,med,other,native,never,0,21,2,0,travel critical,4,0,1,0,0,1,1,-1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,89,0.971
+female,40,176,88,28.4,op,yes,med,white,native,quit,9,6,2,0,stopped,4,0,1,1,0,-1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0.5
+female,20,166,64,23.2,unknown,yes,high,white,native,never,-1,4,4,0,stopped,5,0,2,2,0,2,1,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0.5
+female,50,174,82,27,bn,yes,low,white,native,never,5,21,3,0,travel critical,3,0,0,0,0,0,0,-2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,89,0.5
+female,43,172,56,18.9,bp,yes,high,white,native,never,0,14,5,0,travel critical,4,0,1,1,0,1,1,1,4,0,1,0,0,0,0,0,0,0,0,0,0,0,1,86,0.5
+female,57,174,82,27,ap,yes,high,white,native,never,10,2,2,0,stopped,3,0,1,1,0,0,1,0,4,0,0,0,0,1,0,0,0,0,0,1,0,0,0,20,10.62
+male,22,178,88,27.7,on,yes,med,white,native,yes,13,4,2,0,stopped,4,0,2,2,0,2,2,2,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,24,0.821
+female,50,154,56,23.6,op,yes,high,white,native,quit,-1,2,2,0,never,4,0,1,1,0,1,1,1,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,20,1.306
+female,67,168,80,28.3,op,yes,med,white,native,never,0,1,1,0,stopped,4,0,1,1,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,17,7.189
+female,33,172,90,30.4,on,yes,low,white,native,never,10,10,2,0,travel critical,4,0,1,1,0,1,1,1,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,54,6.548
+female,36,156,62,25.4,bp,yes,med,asian,native,never,-1,6,2,0,never,4,0,2,2,0,2,2,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0.5
+female,45,168,64,22.6,on,yes,high,white,native,quit,-1,21,4,0,never,2,0,1,1,0,1,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,77,0.5
+female,45,176,100,32.2,ap,yes,high,white,native,never,0,2,2,0,home,5,0,2,2,0,1,1,2,5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,18,10.719
+female,37,162,70,26.6,op,yes,med,hispanic,native,never,0,3,6,0,travel non critical,4,0,0,1,0,1,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,33,0.5
+female,56,182,138,41.6,unknown,yes,med,white,native,never,-1,4,2,0,never,4,0,1,1,0,1,1,0,3,0,0,0,0,1,0,0,0,1,0,0,0,0,0,25,8.752
+male,52,182,110,33.2,unknown,yes,med,white,native,never,1,8,4,0,stopped,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,1.359
+female,28,166,86,31.2,unknown,yes,med,white,native,quit,4,5,6,0,stopped,4,0,1,1,0,1,1,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0.5
+female,44,162,94,35.8,ap,yes,high,white,native,never,0,4,4,0,home,4,0,1,1,0,1,1,-1,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,26,10.916
+male,9,136,52,28.1,unknown,yes,med,white,native,never,-1,3,4,0,never,2,0,1,0,0,1,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,22,1.1
+female,29,154,54,22.7,ap,yes,high,asian,native,yes,1,5,4,0,stopped,4,0,1,1,0,1,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0.5
+male,43,180,72,22.2,ap,yes,high,mixed,native,never,13,4,3,0,stopped,3,0,2,2,0,1,2,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0.563
+female,48,174,94,31,on,yes,high,white,native,never,9,2,3,0,home,5,0,2,2,0,2,2,1,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,20,1.185
+female,20,164,54,20,on,yes,med,mixed,native,never,0,4,4,0,never,5,0,1,2,0,2,2,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0.5
+female,31,170,64,22.1,bp,yes,high,white,native,never,2,7,3,0,travel critical,5,0,1,2,0,2,1,1,5,0,0,0,0,0,0,0,0,0,0,0,1,0,1,43,1.433
+female,40,154,68,28.6,op,yes,low,white,native,quit,12,21,1,0,travel non critical,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,87,0.5
+male,38,182,78,23.5,unknown,yes,high,white,native,never,0,2,2,0,stopped,5,0,2,2,0,2,2,0,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,18,1.288
+male,35,174,82,27,on,yes,high,white,native,never,12,21,2,0,never,3,0,0,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,77,0.5
+female,25,162,84,32,on,yes,med,white,native,never,0,21,1,0,travel non critical,4,0,2,2,0,1,1,-1,5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,85,0.5
+female,30,164,62,23,ap,yes,med,white,native,never,4,5,6,0,home,3,0,1,1,0,1,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,0.5
+female,31,160,86,33.5,ap,yes,high,white,native,quit,-1,0,2,0,never,3,0,0,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0.5
+female,43,146,52,24.3,unknown,no,low,white,native,yes,13,21,5,0,travel critical,3,0,1,1,0,1,1,-1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,87,0.5
+female,57,168,94,33.3,unknown,yes,med,white,native,quit,1,12,4,0,travel critical,3,0,1,1,0,1,-2,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,62,0.822
+male,45,188,92,26,unknown,yes,high,white,native,never,4,1,2,0,stopped,3,0,1,1,0,1,1,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,21,1.44
+female,39,156,52,21.3,unknown,no,low,white,native,never,14,6,5,0,never,4,0,0,2,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0.5
+female,40,158,54,21.6,ap,no,high,white,immigrant,never,3,1,2,0,stopped,3,0,1,1,0,0,1,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,60,0.5
+female,56,158,52,20.8,ap,yes,med,white,immigrant,never,2,6,2,0,home,2,0,1,1,0,1,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34,1.53
+female,44,162,82,31.2,unknown,yes,med,other,native,never,2,3,4,0,stopped,4,0,1,1,0,1,1,0,4,0,0,1,0,0,0,0,0,0,0,1,0,0,0,23,9.788
+female,56,156,60,24.6,ap,yes,med,white,native,never,-1,9,2,0,never,5,0,2,2,0,1,1,1,5,0,0,1,0,0,1,0,0,0,0,0,1,0,0,39,15.07
+male,38,164,80,29.7,on,yes,high,white,native,never,2,5,4,0,travel critical,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0.5
+male,31,180,84,25.9,on,yes,med,white,native,quit,7,10,2,5,home,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,42,7.056
+male,25,170,76,26.2,unknown,yes,med,hispanic,native,yes,0,15,2,1,travel critical,4,0,2,2,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,69,0.5
+female,46,174,96,31.7,ap,yes,med,white,native,quit,3,1,2,0,stopped,5,0,2,2,0,2,2,0,5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,15,10.633
+female,36,160,84,32.8,unknown,yes,med,mixed,native,yes,1,0,1,0,stopped,3,0,2,2,0,0,0,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0.5
+male,31,176,110,35.5,bp,yes,low,white,native,never,3,5,1,0,travel non critical,3,0,1,1,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,39,0.5
+female,34,180,90,27.7,unknown,yes,med,white,native,never,13,3,2,0,stopped,4,0,2,2,0,2,2,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0.5
+female,77,162,48,18.2,ap,yes,med,white,native,quit,-1,0,1,0,never,5,0,2,2,0,2,2,0,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,12,19.718
+male,69,178,76,23.9,unknown,no,med,white,native,never,7,1,2,0,never,3,0,1,1,0,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,2.49
+female,42,158,50,20,op,no,low,white,native,quit,4,0,2,0,stopped,5,0,2,2,0,-2,0,1,5,0,0,0,0,0,1,0,0,0,0,1,0,0,0,12,12.21
+female,21,166,88,31.9,bp,yes,med,white,native,yes,4,14,2,0,travel critical,4,0,0,1,0,-1,0,-1,3,0,1,1,0,0,1,0,0,0,0,0,0,0,0,88,10.115
+other,22,178,180,56.8,ap,yes,low,white,native,quit,0,2,3,0,stopped,5,0,2,2,0,2,2,0,5,0,0,1,0,0,0,0,0,1,0,1,0,0,0,18,23.17
+female,36,174,70,23.1,unknown,yes,med,mixed,native,quit,1,2,2,0,stopped,4,0,1,1,0,1,1,1,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,22,0.981
+female,37,174,70,23.1,ap,yes,high,white,native,quit,0,0,2,0,never,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0.5
+female,24,154,62,26.1,an,no,low,white,native,never,0,4,3,0,stopped,4,0,1,1,0,1,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,0.5
+female,32,162,72,27.4,ap,yes,med,white,native,never,1,10,4,0,stopped,4,0,1,1,0,1,1,1,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,46,8.887
+female,48,172,84,28.3,op,yes,med,white,native,never,4,6,6,0,never,3,0,0,1,0,1,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34,0.5
+male,46,174,150,49.5,abp,yes,med,white,native,never,14,7,3,0,stopped,2,0,1,1,0,1,1,0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,37,11.476
+female,30,166,112,40.6,ap,no,low,white,native,never,-1,10,3,0,home,3,0,1,0,0,-1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,46,0.5
+female,21,182,74,22.3,ap,yes,high,white,native,never,1,3,2,0,travel non critical,4,0,2,2,0,2,2,2,5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,28.999,0.5
+male,28,178,128,40.3,unknown,yes,med,hispanic,native,never,10,5,4,0,never,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28.999,0.5
+female,25,178,128,40.3,ap,yes,low,mixed,native,never,4,6,1,0,stopped,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0.5
+female,21,154,74,31.2,ap,yes,low,white,native,quit,2,5,3,0,stopped,4,0,1,1,0,1,1,1,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,27,1.14
+female,34,160,66,25.7,unknown,yes,low,white,native,never,11,1,2,0,stopped,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0.5
+male,56,178,74,23.3,unknown,no,med,white,immigrant,yes,0,5,1,10,never,3,0,1,1,0,0,0,2,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,28.999,2.793
+female,43,178,74,23.3,unknown,yes,high,white,native,yes,12,10,3,0,stopped,2,0,1,1,0,2,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0.5
+female,42,156,66,27.1,unknown,yes,med,white,native,quit,2,6,2,0,stopped,5,0,2,0,0,2,0,1,4,0,0,1,0,0,0,0,0,0,0,0,1,0,0,32,2.602
+male,6,180,130,40.1,unknown,yes,high,white,native,never,4,3,3,0,stopped,4,0,1,1,0,1,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0.5
+female,30,162,106,40.3,bp,yes,med,white,native,never,-1,7,2,0,travel critical,4,0,1,1,0,1,1,-1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0.5
+male,60,172,80,27,bp,yes,med,white,native,quit,-1,21,3,0,stopped,5,0,2,2,0,2,2,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,75,3.018
+female,40,164,86,31.9,on,yes,low,white,native,quit,1,21,5,0,travel critical,3,0,0,-2,0,0,0,1,4,0,0,1,0,1,0,0,0,0,0,1,0,0,1,87,6.864
+male,49,162,68,25.9,unknown,yes,med,white,native,never,5,2,2,0,travel critical,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,30,10.533
+female,47,164,74,27.5,abp,yes,med,white,native,yes,14,3,1,0,stopped,4,0,1,1,0,0,0,1,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,23,9.307
+other,21,160,114,44.5,unknown,yes,med,white,native,yes,1,21,2,0,travel critical,3,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,87,0.5
+female,25,176,78,25.1,unknown,yes,low,white,native,yes,2,1,8,0,stopped,5,0,1,1,0,1,1,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0.5
+female,43,170,84,29,op,no,med,white,native,never,4,8,5,0,stopped,3,0,1,0,0,1,0,1,4,0,1,0,0,0,0,0,0,0,0,1,0,0,0,57.999,5.859
+female,40,160,88,34.3,ap,no,med,mixed,immigrant,yes,0,3,3,0,home,3,0,1,1,0,1,1,1,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,21,1.228
+female,27,174,92,30.3,unknown,no,med,asian,native,never,0,0,1,0,stopped,4,0,2,2,0,1,1,0,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,12,7.405
+male,47,156,54,22.1,ap,yes,med,asian,immigrant,never,-1,3,1,0,travel critical,4,0,1,1,0,1,1,1,4,0,1,0,0,0,0,0,0,0,0,1,0,0,0,51,12.42
+female,46,160,72,28.1,abn,yes,high,white,native,never,2,5,5,0,home,3,0,2,2,0,1,1,1,5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,27,8.59
+female,61,154,70,29.5,abp,yes,med,white,native,never,0,0,1,0,never,4,0,1,1,0,-2,0,0,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,14,9.149
+male,56,178,148,46.7,bn,yes,high,white,native,never,7,1,2,0,stopped,3,0,1,0,0,1,1,2,5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,15,12.039
+female,36,172,74,25,unknown,no,med,white,native,quit,3,1,2,0,stopped,4,0,1,1,0,1,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0.5
+female,27,174,96,31.7,on,yes,low,white,native,never,13,4,2,0,travel non critical,4,0,1,1,0,1,1,1,4,0,0,0,0,0,1,0,0,0,0,0,0,1,0,36,6.458
+male,35,176,128,41.3,an,yes,high,white,native,never,11,7,4,0,never,2,0,1,2,0,1,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,0.5
+female,55,158,114,45.6,an,yes,med,white,native,never,1,1,2,0,never,4,0,2,2,0,2,1,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1.364
+male,38,180,118,36.4,op,yes,med,white,native,quit,6,6,6,0,travel critical,2,0,0,1,0,0,1,0,3,0,0,0,0,1,0,0,0,0,0,1,0,0,1,44,7.622
+female,63,158,96,38.4,op,yes,med,white,native,never,-1,2,2,0,never,3,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,20,8.071
+female,50,172,106,35.8,op,yes,high,white,native,never,2,3,3,0,never,3,0,1,1,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0.63
+female,34,160,92,35.9,bp,yes,med,white,native,yes,2,10,4,0,travel critical,4,0,1,1,0,1,1,1,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,56,8.904
+female,64,168,78,27.6,bn,no,low,white,native,quit,0,3,2,0,never,4,0,1,1,0,1,1,1,5,0,0,0,0,0,1,1,0,1,0,1,1,0,0,18,48.937
+female,31,158,44,17.6,bp,yes,high,white,immigrant,yes,-1,15,2,0,stopped,4,0,1,1,0,-2,-1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57.999,0.5
+female,29,174,132,43.5,bp,no,med,white,native,quit,0,12,4,0,never,3,0,1,1,0,1,1,1,4,0,0,1,0,0,0,0,0,0,0,1,0,0,0,50,9.71
+female,39,176,60,19.3,unknown,no,low,white,native,yes,12,2,2,0,stopped,3,0,1,1,0,1,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0.5
+female,28,168,70,24.8,unknown,yes,low,white,native,never,3,21,3,0,travel critical,3,0,1,1,0,-1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,87,0.5
+female,59,178,84,26.5,op,yes,med,white,native,quit,10,21,3,0,travel critical,3,0,1,1,0,1,1,0,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,87,6.374
+female,27,164,66,24.5,unknown,yes,med,white,native,never,0,2,2,0,stopped,3,0,1,1,0,2,2,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0.5
+male,29,174,76,25.1,op,yes,high,hispanic,native,quit,0,4,4,0,home,3,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0.5
+male,58,174,86,28.4,ap,yes,med,white,native,quit,1,6,3,0,never,4,0,1,1,0,1,1,-2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,1.331
+female,37,176,76,24.5,on,yes,med,white,native,never,1,0,4,0,travel non critical,3,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,24,0.5
+female,35,160,66,25.7,ap,yes,med,black,immigrant,never,4,21,5,0,travel critical,3,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,1,0,1,87,1.87
+female,38,162,60,22.8,unknown,yes,med,white,native,never,-1,7,2,0,never,3,0,1,2,0,0,1,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0.5
+male,34,180,80,24.6,ap,yes,med,white,native,never,2,1,2,0,stopped,3,0,1,2,0,1,2,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0.5
+female,33,164,70,26,bp,yes,med,white,native,never,0,20,2,0,travel critical,3,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,84,0.5
+other,21,172,58,19.6,unknown,no,gov,white,native,never,0,4,1,0,stopped,4,0,2,1,0,2,1,-2,4,0,0,1,0,0,0,0,0,0,0,0,1,0,0,26,2.514
+female,34,168,112,39.6,unknown,yes,med,white,native,never,2,10,1,0,travel critical,4,0,1,1,0,0,0,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54,0.5
+female,42,166,124,44.9,op,yes,med,white,native,never,5,4,1,0,never,3,0,1,1,0,1,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,28,0.5
+female,48,178,122,38.5,ap,yes,med,white,native,never,4,15,3,0,stopped,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,59,0.5
+male,46,190,100,27.7,op,yes,high,white,native,never,-1,12,8,0,stopped,2,0,1,1,0,0,0,-1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54,0.5
+female,30,150,62,27.5,unknown,yes,high,hispanic,immigrant,quit,-1,3,2,0,never,4,0,2,2,0,2,2,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0.5
+male,61,174,82,27,unknown,yes,med,white,native,never,0,2,3,0,never,4,0,1,1,0,1,1,-1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,2.049
+male,70,168,112,39.6,ap,yes,gov,white,native,never,0,21,5,0,never,3,0,1,1,0,0,0,0,3,0,0,0,1,0,0,0,0,1,0,0,0,0,0,79,38.14
+male,40,182,92,27.7,ap,yes,med,white,native,never,14,2,2,0,stopped,4,0,1,1,0,1,1,0,3,0,0,1,0,0,1,0,0,0,0,0,0,0,0,22,14.986
+female,68,166,50,18.1,ap,yes,high,white,native,never,13,4,3,0,never,3,0,2,2,0,2,2,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,2.295
+female,51,174,96,31.7,op,yes,med,white,native,yes,14,4,2,0,never,5,0,2,2,0,2,2,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0.5
+female,40,168,78,27.6,ap,yes,med,white,native,quit,1,12,3,0,travel critical,4,0,1,0,0,-1,-1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0.5
+female,65,162,74,28.1,on,yes,med,white,native,never,1,10,2,0,travel critical,4,0,2,2,0,2,2,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54,1.598
+female,45,166,54,19.5,op,yes,med,white,native,never,-1,5,5,0,never,4,0,2,2,0,0,2,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0.5
+female,46,182,82,24.7,op,yes,high,white,native,quit,5,12,4,0,home,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0.5
+female,38,164,72,26.7,op,no,low,white,native,quit,0,8,3,0,never,4,0,1,1,0,1,1,0,4,0,0,1,0,0,1,0,0,0,0,0,1,0,0,38,8.022
+female,20,168,106,37.5,op,yes,low,white,native,never,8,21,3,0,travel critical,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,87,1.045
+female,21,170,92,31.8,op,yes,low,white,native,quit,9,3,2,0,stopped,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0.5
+female,22,162,70,26.6,unknown,yes,med,white,native,yes,2,21,2,0,travel critical,3,0,0,1,0,0,1,1,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,89,0.962
+female,50,178,116,36.6,op,yes,med,white,native,never,2,21,3,0,travel critical,3,0,0,1,0,1,1,1,3,0,1,1,0,0,0,0,0,0,0,0,0,0,1,95,0.877
+female,23,160,96,37.5,unknown,yes,med,white,native,never,5,3,2,0,home,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0.5
+female,31,168,108,38.2,ap,yes,high,black,native,never,7,5,4,0,never,4,0,1,1,0,1,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,51,0.5
+female,55,174,114,37.6,ap,yes,med,white,native,yes,0,10,2,0,travel non critical,4,0,1,0,0,1,1,-1,4,0,0,0,0,0,0,0,0,0,0,1,0,1,0,54,11.66
+male,60,188,128,36.2,on,yes,med,white,native,quit,5,0,2,0,never,3,0,1,1,0,1,1,0,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,14,9.709
+female,56,160,88,34.3,op,yes,med,white,native,never,8,6,2,0,stopped,4,0,1,1,0,1,1,-1,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,32,6.436
+female,67,168,90,31.8,unknown,yes,high,white,native,never,4,4,4,0,home,4,0,1,1,0,1,1,1,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,26,2.649
+female,50,168,102,36.1,an,no,med,white,native,never,7,8,4,0,stopped,4,0,1,1,0,1,1,1,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,38,2.971
+female,49,174,82,27,ap,yes,med,white,native,quit,-1,8,4,0,travel critical,2,0,0,1,0,0,1,1,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,70,0.5
+male,52,180,112,34.5,ap,yes,med,white,native,never,1,2,3,0,stopped,4,0,2,1,0,2,2,0,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,18,2.452
+male,50,180,126,38.8,unknown,yes,high,white,native,never,5,20,4,0,travel critical,2,0,0,1,0,1,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,86,0.569
+female,31,158,64,25.6,unknown,yes,med,white,immigrant,never,4,1,2,0,stopped,4,0,1,1,0,2,1,1,4,0,0,1,0,0,0,0,0,0,0,0,1,0,0,17,2.477
+male,74,180,90,27.7,ap,yes,high,white,immigrant,quit,14,1,2,0,never,3,0,1,1,0,1,1,1,4,0,0,0,0,1,0,1,0,1,0,1,0,0,0,15,58.638
+male,57,174,108,35.6,on,yes,high,white,native,quit,3,5,4,0,home,4,0,1,1,0,1,0,1,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,28.999,8.192
+female,23,176,62,20,op,yes,med,white,native,never,2,0,5,0,stopped,4,0,1,1,0,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0.5
+male,60,184,84,24.8,op,yes,med,white,native,yes,2,4,1,0,stopped,3,0,1,1,0,1,1,-1,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,28,3.182
+male,39,176,84,27.1,op,yes,med,white,native,never,4,7,1,0,home,3,0,1,1,0,-1,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,0.5
+female,29,176,98,31.6,unknown,yes,low,hispanic,native,never,0,10,3,0,stopped,3,0,-1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0.5
+female,23,158,88,35.2,ap,yes,med,white,native,quit,6,7,2,0,travel non critical,4,0,1,1,0,1,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,45,0.5
+female,70,164,108,40.1,unknown,yes,med,white,native,never,0,5,2,0,never,4,0,1,0,0,1,1,0,4,0,0,1,0,0,0,0,0,1,0,0,1,0,0,28.999,12.062
+female,55,158,88,35.2,bp,yes,med,white,native,never,0,3,3,0,stopped,4,0,1,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,1.55
+female,52,168,78,27.6,ap,yes,med,white,native,never,3,5,3,0,stopped,4,0,1,1,0,1,1,-1,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,28.999,2.169
+female,68,174,96,31.7,op,yes,med,white,native,never,-1,2,3,0,never,4,0,1,1,0,1,1,0,4,0,0,0,0,0,1,0,0,0,0,1,0,0,0,20,13.622
+female,34,158,62,24.8,op,yes,med,white,native,quit,10,9,5,0,never,4,0,1,1,0,1,1,1,4,0,0,0,0,0,1,0,0,0,0,0,1,0,0,41,7.373
+female,45,164,90,33.4,unknown,yes,med,hispanic,native,never,2,2,4,0,never,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,20,8.625
+female,42,172,122,41.2,ap,yes,high,white,native,never,2,2,2,0,stopped,4,0,1,1,0,1,1,0,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,20,1.561
+female,34,182,88,26.5,ap,yes,med,white,native,never,-1,17,2,0,travel critical,4,0,1,2,0,1,0,2,5,0,1,0,0,0,0,0,0,0,0,0,0,0,1,93,0.5
+female,34,166,80,29,bp,yes,high,white,native,never,1,9,4,0,stopped,4,0,1,1,0,1,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,0.5
+female,43,162,94,35.8,on,no,med,white,native,never,1,3,3,0,stopped,4,0,1,1,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,0.5
+female,30,166,72,26.1,bp,yes,med,white,native,never,-1,2,2,0,stopped,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0.5
+female,50,162,78,29.7,op,yes,high,white,native,never,9,6,1,0,never,3,0,1,1,0,0,0,-1,3,0,0,1,0,0,0,0,0,1,0,0,0,0,0,34,6.199
+female,58,174,122,40.2,bn,no,med,white,native,never,2,2,3,0,never,2,0,1,1,0,1,1,-2,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,22,9.955
+male,59,186,114,32.9,unknown,yes,high,white,native,quit,2,16,2,0,stopped,4,0,1,1,0,1,1,0,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,62,12.74
+female,44,158,66,26.4,unknown,yes,med,mixed,native,never,1,3,4,0,stopped,4,0,2,2,0,2,2,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0.5
+female,63,162,84,32,unknown,yes,med,white,native,never,3,2,2,0,stopped,5,0,2,2,0,2,2,2,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,22,2.766
+female,36,162,66,25.1,ap,yes,med,white,native,never,2,3,3,0,stopped,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0.5
+male,24,188,94,26.5,abp,no,low,white,native,yes,0,21,2,0,travel non critical,4,0,1,-1,0,-1,-1,0,4,1,0,1,0,0,0,0,0,0,0,0,0,1,0,95,1.124
+male,40,196,114,29.6,an,yes,med,white,native,never,-1,10,1,0,never,3,0,2,-1,0,1,-1,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42,0.5
+female,44,154,68,28.6,ap,yes,med,white,native,never,-1,10,6,0,home,2,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,42,2.223
+male,68,186,84,24.2,unknown,yes,low,white,native,yes,0,1,2,0,home,4,0,1,1,0,1,1,1,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,19,11.747
+male,0,136,44,23.7,ap,yes,high,hispanic,native,never,-1,10,4,0,never,3,0,1,2,0,1,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,0.5
+female,31,172,114,38.5,unknown,yes,med,white,native,quit,1,5,4,0,stopped,4,0,1,1,0,1,1,1,4,0,0,0,0,0,1,0,0,0,0,0,1,0,0,28.999,11.207
+female,30,164,60,22.3,on,yes,med,white,native,never,3,20,2,0,travel critical,2,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,84,0.5
+female,31,162,98,37.3,bp,no,med,asian,native,never,-1,5,3,0,never,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0.5
+male,58,180,82,25.3,ap,yes,high,white,native,yes,2,0,1,0,stopped,3,0,1,1,0,0,0,1,4,0,0,0,0,0,0,0,0,1,1,0,0,0,0,14,16.683
+male,66,188,96,27.1,op,yes,high,white,native,never,-1,1,1,0,never,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,1.514
+male,52,178,80,25.2,op,yes,med,white,native,quit,9,5,3,0,stopped,3,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,28.999,8.014
+female,27,160,56,21.8,unknown,yes,med,hispanic,native,yes,-1,10,1,0,travel critical,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54,0.5
+female,48,176,100,32.2,ap,yes,high,white,native,quit,9,2,2,0,home,5,0,2,2,0,1,1,2,5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,18,10.719
+female,22,160,92,35.9,op,no,med,white,native,never,-1,4,4,0,never,3,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0.5
+female,38,164,88,32.7,bp,yes,high,white,native,never,0,7,4,0,never,3,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0.5
+female,59,166,86,31.2,op,yes,high,white,native,quit,0,18,4,0,never,4,0,1,1,0,1,1,0,4,0,1,0,0,0,0,0,0,0,0,1,1,0,0,88,7.573
+female,42,176,106,34.2,bp,no,low,white,native,quit,-1,5,1,0,travel non critical,3,0,1,1,0,0,0,0,4,0,0,1,0,0,0,0,0,0,0,0,0,1,0,39,1.34
+female,30,158,44,17.6,op,no,med,hispanic,native,yes,2,10,5,0,stopped,3,0,0,0,0,0,0,-1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,0.5
+female,65,168,72,25.5,unknown,yes,gov,white,native,yes,2,6,1,0,stopped,3,0,1,1,0,1,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34,1.834
+female,31,162,106,40.3,op,yes,med,white,native,never,1,5,4,0,stopped,3,0,1,1,0,1,0,1,4,0,0,0,0,0,1,0,0,0,0,1,0,0,0,28.999,12.946
+male,70,182,98,29.5,op,yes,high,white,native,never,-1,2,3,0,never,4,0,1,1,0,1,0,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,1.377
+female,58,166,72,26.1,unknown,yes,med,white,immigrant,quit,0,2,3,0,home,4,0,1,2,0,1,1,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0.864
+female,30,172,78,26.3,op,yes,med,white,native,quit,14,1,2,0,stopped,5,0,2,2,0,2,2,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0.5
+male,45,176,82,26.4,ap,yes,med,mixed,native,never,14,3,2,0,home,4,0,1,1,0,1,-2,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0.901
+female,52,176,92,29.7,op,yes,med,white,native,never,-1,14,7,0,never,2,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,56,0.97
+female,31,168,110,38.9,ap,yes,med,white,native,never,5,3,3,0,stopped,4,0,1,1,0,1,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0.5
+female,30,166,62,22.4,an,yes,med,white,native,never,-1,1,2,0,stopped,3,0,1,1,0,1,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0.5
+female,40,168,64,22.6,unknown,yes,med,hispanic,native,never,13,2,3,0,stopped,4,0,2,2,0,2,2,2,4,0,0,1,0,0,0,0,0,0,0,1,0,0,0,20,9.374
+female,64,158,58,23.2,bp,yes,med,white,native,never,-1,3,2,0,never,3,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,2.799
+female,46,174,114,37.6,on,yes,high,white,immigrant,never,0,3,3,0,never,3,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0.5
+female,63,164,106,39.4,abn,yes,med,white,native,never,0,5,1,0,stopped,3,0,0,1,0,1,1,1,4,0,0,0,0,0,0,1,0,1,0,0,1,0,0,28.999,34.681
+female,30,164,88,32.7,unknown,no,med,white,native,yes,2,1,2,0,stopped,3,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0.5
+female,32,172,76,25.6,ap,yes,med,white,native,quit,0,1,2,0,never,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,17,1.706
+male,47,194,102,27.1,unknown,yes,med,white,native,quit,11,3,2,0,stopped,3,0,1,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0.5
+female,20,162,64,24.3,ap,yes,med,white,native,never,1,15,3,0,travel critical,5,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,69,0.5
+male,42,164,64,23.7,op,no,med,white,native,never,1,4,3,0,stopped,3,0,1,1,0,1,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,0.5
+female,38,174,114,37.6,unknown,yes,high,white,native,never,-1,2,2,0,stopped,3,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,20,1.603
+female,44,172,102,34.4,abn,yes,med,mixed,native,never,-1,8,1,0,travel non critical,3,0,1,1,0,0,0,0,3,0,0,0,0,0,1,0,0,1,0,0,0,1,0,50,16.837
+female,21,176,60,19.3,unknown,yes,high,white,native,never,12,10,2,0,stopped,3,0,0,1,0,0,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,46,0.5
+female,62,172,88,29.7,op,yes,med,white,native,never,1,5,2,0,never,2,0,1,1,0,1,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,1.54
+female,34,156,116,47.6,an,yes,med,white,native,never,3,5,2,0,stopped,4,0,1,1,0,1,1,0,4,0,0,0,0,0,0,0,1,0,0,0,1,0,0,28.999,15.855
+female,25,158,56,22.4,ap,yes,med,white,native,never,5,6,4,0,stopped,5,0,2,2,0,1,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0.5
+female,26,180,62,19.1,unknown,yes,med,black,native,never,1,3,3,0,home,5,0,2,0,0,2,2,-1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0.5
+male,34,170,66,22.8,unknown,yes,med,hispanic,immigrant,quit,6,8,4,0,never,3,0,2,2,0,2,2,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0.5
+female,43,162,66,25.1,bn,yes,high,white,native,never,13,10,6,0,stopped,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0.5
+male,31,170,96,33.2,ap,yes,high,asian,native,quit,5,6,4,0,stopped,5,0,2,2,0,2,2,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0.5
+female,31,176,92,29.7,abn,no,gov,white,native,quit,13,17,1,2,never,3,0,1,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,65,0.5
+female,49,164,102,37.9,op,yes,med,white,immigrant,never,0,21,4,0,travel critical,3,0,1,1,0,1,1,2,5,0,0,0,0,0,0,0,0,1,0,0,0,0,1,85,5.731
+female,49,150,62,27.5,op,yes,med,white,native,never,1,6,1,0,travel critical,4,0,2,2,0,1,2,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,40,0.5
+female,25,164,82,30.4,op,yes,high,white,native,never,7,1,2,0,stopped,4,0,2,1,0,2,1,1,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,15,5.186
+male,39,184,138,40.7,unknown,yes,low,white,native,quit,2,4,3,0,stopped,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0.5
+female,47,168,116,41,unknown,yes,med,white,native,yes,0,10,1,0,travel critical,4,0,1,1,0,0,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,54,0.709
+female,30,174,64,21.1,unknown,yes,low,white,native,never,1,2,2,0,stopped,4,0,2,1,0,1,1,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0.5
+female,31,164,60,22.3,unknown,no,low,white,native,quit,6,2,2,0,stopped,4,0,1,1,0,0,0,-1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0.5
+female,36,154,76,32,unknown,yes,low,white,native,yes,2,21,4,0,travel critical,4,0,1,1,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,87,0.5
+female,42,166,92,33.3,ap,yes,med,white,native,yes,13,10,3,0,stopped,4,0,1,1,0,1,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0.675
+female,46,176,110,35.5,on,yes,med,white,native,quit,11,21,3,0,travel critical,4,0,1,1,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,89,0.5
+female,49,162,90,34.2,op,yes,low,white,native,quit,-1,5,1,0,never,4,0,1,1,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28.999,0.5
+male,44,180,96,29.6,ap,yes,high,white,native,never,0,6,3,0,never,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0.5
+female,30,156,68,27.9,op,yes,med,white,native,never,-1,5,4,0,never,3,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0.5
+female,50,180,104,32,ap,yes,med,white,native,never,1,4,5,0,home,4,0,1,1,0,1,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,26,0.5
+female,33,170,120,41.5,unknown,yes,med,white,native,never,14,4,3,0,stopped,4,0,1,1,0,1,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,0.5
+male,59,176,96,30.9,op,yes,high,white,immigrant,never,1,3,4,0,stopped,3,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,23,7.752
+female,30,158,64,25.6,ap,yes,med,white,native,quit,7,21,7,0,never,3,0,1,0,0,1,0,0,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,79,11.059
+female,30,162,114,43.4,unknown,no,med,white,native,never,8,1,2,0,stopped,4,0,1,1,0,1,1,-1,3,0,0,0,0,0,0,0,0,1,0,1,0,0,0,20,16.603
+female,40,176,146,47.1,ap,yes,med,white,native,never,0,6,7,0,never,3,0,0,1,0,0,0,0,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,32,1.504
+male,56,192,110,29.8,ap,yes,high,white,immigrant,quit,14,6,4,0,travel non critical,3,0,1,1,0,1,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,42,1.367
+female,27,172,90,30.4,op,no,med,white,native,never,0,1,2,0,never,4,0,2,1,0,-1,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0.5
+male,50,166,78,28.3,unknown,yes,high,white,native,never,0,3,3,0,never,3,0,1,0,0,1,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0.5
+female,36,176,72,23.2,an,no,low,asian,native,quit,10,21,4,0,never,3,0,0,1,0,-1,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,79,0.5
+female,36,164,92,34.2,ap,yes,med,white,native,yes,10,6,3,0,stopped,5,0,2,2,0,2,2,2,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,30,1.189
+male,60,186,104,30,ap,yes,high,white,native,never,14,3,2,0,never,3,0,1,1,0,1,1,1,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,27,15.476
+female,33,164,84,31.2,bn,no,low,white,native,quit,1,21,2,0,travel non critical,4,0,1,1,0,2,-1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,87,0.5
+female,36,178,116,36.6,abn,yes,med,white,native,never,-1,3,3,0,never,4,0,1,1,0,1,1,-1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0.5
+female,21,164,62,23,an,yes,med,hispanic,immigrant,quit,6,6,4,0,stopped,4,0,1,0,0,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,0.5
+female,50,172,100,33.8,op,yes,med,white,native,never,4,4,2,0,travel critical,4,0,2,2,0,2,2,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,36,0.5
+female,45,168,128,45.3,op,yes,med,white,native,quit,1,2,2,0,never,5,0,2,2,0,2,2,2,5,0,0,0,0,0,0,1,0,1,0,0,1,0,0,18,22.859
+female,48,174,80,26.4,unknown,yes,high,white,native,never,12,12,3,0,stopped,3,0,0,1,0,0,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0.5
+female,13,166,100,36.2,op,yes,low,white,native,never,-1,2,3,0,stopped,2,0,2,2,0,2,2,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0.5
+female,32,136,68,36.7,unknown,yes,med,white,native,yes,0,20,5,0,never,5,0,2,0,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,74,0.5
+female,27,166,108,39.1,unknown,yes,med,white,native,never,7,21,3,0,travel non critical,3,0,0,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,87,0.5
+male,36,192,76,20.6,op,yes,med,white,native,never,2,3,2,0,never,5,0,2,2,0,1,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0.5
+female,58,156,60,24.6,op,yes,med,white,native,never,-1,0,1,0,travel critical,3,0,1,1,0,1,1,1,3,0,1,1,0,0,0,0,0,0,0,0,0,0,1,43,1.256
+female,35,182,122,36.8,op,yes,med,white,native,never,2,1,2,0,stopped,4,0,2,2,0,2,2,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0.5
+female,39,160,72,28.1,abp,yes,med,white,native,quit,0,8,4,0,never,4,0,1,1,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0.5
+female,28,162,54,20.5,unknown,no,low,white,native,never,2,3,2,0,stopped,3,0,2,2,0,1,1,-1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0.5
+male,10,186,84,24.2,op,yes,high,mixed,native,quit,2,0,4,0,never,2,0,2,2,0,2,2,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0.5
+female,32,154,114,48,unknown,yes,med,white,native,never,3,3,2,0,travel non critical,3,0,1,1,0,0,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,35,0.5
+female,44,164,60,22.3,op,yes,med,white,native,never,0,4,4,0,stopped,3,0,1,1,0,2,1,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0.5
+female,31,158,56,22.4,abn,yes,med,white,native,yes,6,5,3,0,stopped,4,0,1,1,0,1,1,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0.5
+female,33,156,56,23,ap,yes,med,white,native,never,1,10,4,0,travel critical,3,0,0,1,0,1,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,56,0.5
+female,47,158,90,36,ap,no,low,white,native,never,0,3,1,3,stopped,4,0,1,1,0,0,0,0,4,0,0,1,0,0,0,0,0,0,0,0,1,0,0,23,3.579
+female,19,154,66,27.8,an,yes,med,white,native,never,-1,3,3,0,stopped,3,0,1,1,0,1,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,25,1.081
+male,33,188,102,28.8,bn,yes,low,white,native,never,8,21,6,0,travel critical,4,0,1,1,0,1,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,89,0.5
+female,57,168,76,26.9,op,yes,med,white,native,never,4,4,2,0,stopped,3,0,1,1,0,1,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0.5
+female,47,156,74,30.4,unknown,yes,med,white,native,quit,3,3,4,0,never,4,0,1,1,0,1,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0.5
+female,37,166,68,24.6,op,yes,high,hispanic,immigrant,never,1,3,4,0,never,4,0,1,1,0,1,1,1,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,23,0.742
+female,40,168,76,26.9,ap,yes,med,white,native,yes,8,2,3,0,stopped,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0.632
+female,26,170,76,26.2,unknown,yes,med,white,native,never,9,5,2,0,stopped,3,0,1,1,0,1,1,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0.5
+male,50,174,80,26.4,abp,yes,high,white,native,quit,10,4,4,0,travel non critical,3,0,1,1,0,1,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,36,0.865
+male,52,184,86,25.4,unknown,yes,high,white,native,quit,0,10,4,0,travel non critical,2,0,0,1,0,1,1,-1,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,57.999,1.164
+female,39,164,96,35.6,ap,no,med,white,native,never,0,12,4,0,travel non critical,3,0,0,2,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,62,0.5
+male,40,186,74,21.3,unknown,no,low,white,native,yes,0,20,3,0,travel non critical,4,0,1,2,0,2,2,1,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,86,0.5
+female,36,176,94,30.3,on,yes,med,white,native,yes,10,2,2,0,never,4,0,1,1,0,1,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0.5
+female,24,134,68,37.8,unknown,no,low,hispanic,native,quit,0,21,5,0,stopped,3,0,1,1,0,1,1,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,81,0.978
+female,65,160,142,55.4,on,yes,high,white,native,never,2,1,2,0,never,3,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,17,7.582
+male,31,184,134,39.5,op,yes,med,white,native,yes,0,6,6,0,stopped,3,0,1,1,0,1,1,1,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,54,0.5
+female,48,164,82,30.4,unknown,yes,high,white,native,quit,3,4,4,0,stopped,4,0,1,1,0,1,1,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0.603
+male,27,176,82,26.4,op,yes,med,white,native,yes,10,1,2,0,home,2,0,1,1,0,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0.5
+female,24,174,104,34.3,unknown,yes,med,white,native,never,10,1,2,0,stopped,3,0,1,1,0,-1,1,1,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,17,0.949
+female,47,160,114,44.5,unknown,yes,med,white,native,never,2,6,2,0,stopped,3,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0.5
+female,74,162,130,49.5,ap,yes,gov,white,native,never,0,4,1,0,never,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,26,14.453
+female,56,164,56,20.8,op,yes,high,white,native,never,2,10,6,0,travel non critical,2,0,1,1,0,1,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,54,0.548
+female,31,164,80,29.7,ap,yes,high,white,native,yes,10,7,6,0,never,4,0,1,1,0,1,1,-1,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,35,10.182
+female,26,154,50,21,unknown,yes,med,white,native,never,-1,1,2,0,stopped,4,0,1,2,0,1,1,1,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,15,0.941
+female,48,162,68,25.9,bp,yes,med,white,native,yes,2,3,1,0,stopped,4,0,1,1,0,2,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0.667
+male,47,176,92,29.7,an,yes,low,mixed,native,yes,0,9,4,0,stopped,4,0,1,1,0,1,1,1,4,0,0,0,0,0,1,0,0,0,1,0,0,0,0,41,17.919
+female,34,164,92,34.2,on,yes,med,white,native,never,2,3,2,0,stopped,3,0,1,1,0,1,1,0,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,23,5.191
+female,60,158,92,36.8,ap,no,low,hispanic,native,never,-1,3,3,0,home,3,0,1,1,0,1,1,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0.929
+male,67,174,86,28.4,an,yes,med,white,native,never,12,10,5,0,travel non critical,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,1,0,1,0,54,16.233
+female,30,164,110,40.8,unknown,yes,med,white,native,yes,0,12,3,0,never,4,0,1,1,0,1,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0.5
+male,51,180,122,37.6,unknown,yes,high,white,native,never,-1,8,2,0,travel non critical,3,0,0,2,0,0,2,-1,5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,46,1.299
+male,37,180,80,24.6,unknown,yes,high,asian,immigrant,quit,1,10,5,0,stopped,3,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0.5
+female,26,162,62,23.6,unknown,yes,med,white,native,never,-1,2,2,0,never,3,0,1,1,0,1,1,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0.5
+female,20,168,78,27.6,unknown,no,low,white,native,yes,0,13,1,14,travel critical,4,0,1,1,0,0,0,1,4,0,1,0,0,0,0,0,0,0,0,0,0,0,1,80,0.5
+female,21,164,56,20.8,unknown,yes,high,white,native,never,1,21,4,0,travel non critical,5,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,87,0.5
+female,31,168,94,33.3,an,yes,med,white,native,never,14,2,1,0,stopped,4,0,2,2,0,2,2,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0.5
+female,56,160,82,32,ap,yes,med,white,native,never,6,2,2,0,travel critical,3,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,30,11.567
+male,31,184,180,53.1,unknown,yes,low,white,native,never,-1,7,1,0,travel critical,3,0,1,-1,0,1,1,0,3,0,0,0,0,0,0,1,0,0,0,1,0,0,0,47,39.099
+female,39,172,158,53.4,an,no,gov,white,native,never,-1,1,2,0,never,4,0,1,1,0,1,1,1,4,0,0,1,0,0,1,0,0,0,0,0,1,0,0,18,14.633
+female,46,162,78,29.7,unknown,yes,med,white,native,quit,-1,4,5,0,stopped,4,0,1,1,0,1,2,1,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,28,9.598
+male,36,182,84,25.3,op,yes,med,white,native,quit,1,0,1,0,travel non critical,4,0,1,1,0,1,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,26,0.5
+female,47,176,120,38.7,unknown,yes,med,white,native,never,-1,2,2,0,stopped,3,0,0,1,0,1,1,1,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,19,8.112
+female,23,166,66,23.9,op,no,low,white,native,yes,0,21,5,0,travel critical,3,0,0,1,0,1,1,-1,2,0,1,1,0,0,0,0,0,0,0,0,1,0,0,95,1.605
+female,25,164,58,21.5,op,yes,med,asian,immigrant,never,0,4,2,0,never,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0.5
+female,31,162,68,25.9,op,yes,med,asian,immigrant,yes,-1,3,2,0,stopped,3,0,0,1,0,1,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0.5
+female,20,170,112,38.7,an,yes,med,white,native,never,0,6,3,0,home,3,0,1,1,0,1,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0.5
+female,30,164,54,20,ap,yes,med,white,native,quit,0,1,2,0,stopped,4,0,1,1,0,1,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0.5
+male,31,182,104,31.3,abp,yes,med,white,native,quit,4,21,1,0,travel critical,2,0,-1,1,0,0,0,1,4,0,1,0,0,0,0,0,0,0,0,1,0,0,1,95,10.239
+female,30,170,78,26.9,unknown,yes,med,white,native,never,4,21,2,2,stopped,2,0,1,1,0,1,1,-1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,79,0.5
+female,30,162,44,16.7,unknown,yes,med,white,native,quit,9,0,1,0,travel non critical,4,0,1,1,0,1,1,1,3,0,0,0,0,0,1,0,0,0,0,0,0,1,0,26,9.981
+female,70,162,78,29.7,ap,yes,med,white,native,never,0,3,2,0,stopped,3,0,1,1,0,1,1,0,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,23,13.004
+female,30,162,160,60.9,ap,no,low,white,native,never,1,5,2,0,never,2,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28.999,0.5
+female,53,164,104,38.6,an,yes,high,white,native,never,-1,7,4,0,stopped,4,0,1,1,0,1,1,0,4,0,0,0,0,0,1,0,0,0,0,0,1,0,0,35,14.436
+female,28,164,68,25.2,an,no,med,white,native,yes,1,8,2,0,travel critical,2,0,0,1,0,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52,0.5
+male,54,188,84,23.7,unknown,yes,med,white,native,never,2,2,1,0,stopped,2,0,1,1,0,1,1,-1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1.529
+female,40,176,64,20.6,ap,yes,high,white,native,quit,0,2,2,0,never,3,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,20,2.125
+female,45,164,60,22.3,unknown,yes,med,black,immigrant,never,1,20,3,0,travel critical,4,0,1,1,0,1,1,1,4,0,1,0,0,0,0,0,0,0,0,0,0,0,1,95,0.5
+female,23,176,66,21.3,ap,no,low,white,native,never,6,2,3,0,stopped,5,0,2,1,0,1,0,1,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,18,1.132
+male,44,190,100,27.7,op,yes,high,white,immigrant,never,10,3,4,0,stopped,3,0,1,1,0,1,1,1,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,23,1.042
+female,47,158,124,49.6,bp,yes,low,white,native,never,10,21,2,0,travel critical,1,0,0,2,0,0,2,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,89,0.5
+female,49,172,114,38.5,op,yes,med,white,native,never,0,2,3,0,home,3,0,1,1,0,1,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0.5
+male,26,178,54,17,unknown,yes,med,white,native,quit,1,1,2,0,home,4,0,1,1,0,0,1,1,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,17,14.566
+female,33,158,74,29.6,an,yes,low,white,native,yes,0,8,5,0,stopped,5,0,2,2,0,2,2,2,5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,36,10.003
+female,50,172,160,54,bp,yes,med,white,native,yes,2,10,3,0,travel critical,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,54,8.126
+female,39,156,88,36.1,an,yes,med,black,native,yes,3,20,5,0,stopped,3,0,0,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,76,0.5
+female,59,174,74,24.4,abp,yes,med,white,native,yes,-1,10,4,0,travel critical,3,0,2,2,0,2,2,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52,1.18
+male,50,176,92,29.7,ap,yes,med,white,native,never,0,10,3,0,travel critical,3,0,1,1,0,1,1,0,4,0,0,0,0,0,0,0,0,0,0,1,0,0,1,54,13.738
+female,56,176,78,25.1,ap,yes,med,white,native,quit,1,10,4,0,travel non critical,3,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,54,0.88
+female,30,154,70,29.5,an,yes,med,white,native,never,1,0,1,0,stopped,4,0,1,1,0,1,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0.5
+female,53,162,70,26.6,op,yes,high,black,native,never,-1,21,1,0,travel critical,4,0,1,1,0,0,0,1,4,0,0,1,0,0,0,0,0,0,0,0,0,0,1,87,1.118
+female,70,174,82,27,unknown,no,low,white,native,never,-1,1,2,0,never,5,0,2,0,0,2,2,-2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1.511
+female,42,164,150,55.7,ap,yes,high,white,native,never,-1,4,4,0,stopped,4,0,1,1,0,1,1,1,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,24,1.579
+female,22,168,88,31.1,abp,no,low,white,native,quit,0,2,2,0,home,4,0,2,1,0,2,2,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0.5
+female,46,168,86,30.4,abp,no,low,white,native,never,1,2,3,0,stopped,4,0,2,2,0,2,2,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0.5
+female,26,166,82,29.7,unknown,yes,low,white,native,never,4,21,2,0,travel critical,3,0,0,1,0,0,0,-1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,87,0.5
+female,28,176,60,19.3,unknown,no,med,white,native,never,0,6,4,0,stopped,3,0,1,1,0,0,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28.999,0.5
+female,30,164,60,22.3,unknown,no,low,white,native,quit,2,0,3,0,stopped,3,0,1,1,0,0,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0.5
+male,89,184,96,28.3,unknown,yes,med,white,immigrant,quit,14,1,2,0,never,4,0,1,1,0,1,1,0,4,0,0,0,0,0,1,1,1,0,0,0,0,0,0,17,57.747
+female,35,160,76,29.6,op,yes,med,hispanic,immigrant,never,1,3,3,0,stopped,4,0,1,1,0,0,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0.5
+female,37,154,112,47.2,ap,yes,med,white,native,quit,1,4,3,0,home,4,0,2,2,0,2,2,1,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,25,1.355
+female,44,176,62,20,unknown,yes,med,white,native,never,12,7,5,0,stopped,4,0,2,1,0,1,1,0,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,33,1.668
+female,45,158,102,40.8,unknown,yes,med,white,native,quit,8,2,3,0,stopped,4,0,2,1,0,1,1,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0.5
+female,45,166,74,26.8,unknown,no,low,white,native,quit,0,4,5,0,stopped,5,0,2,2,0,2,1,0,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,27,7.48
+male,68,174,124,40.9,unknown,yes,med,white,native,quit,-1,21,2,0,travel critical,4,0,1,1,0,1,1,2,5,0,0,0,0,0,0,0,0,1,0,1,0,0,0,85,23.913
+female,34,162,104,39.6,abp,yes,high,white,native,never,-1,4,5,0,home,4,0,1,1,0,1,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0.5
+female,45,164,76,28.2,bp,yes,low,white,native,never,8,2,2,0,stopped,4,0,2,2,0,2,2,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0.5
+female,60,166,62,22.4,bp,yes,high,white,immigrant,quit,5,3,3,0,travel critical,3,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,33,0.744
+female,57,172,74,25,abp,yes,high,white,native,never,2,3,3,0,travel non critical,2,0,1,2,0,1,1,1,5,0,0,0,0,0,0,0,0,0,0,0,0,1,1,31,0.999
+male,62,180,78,24,op,no,med,white,immigrant,yes,1,21,1,0,travel critical,3,0,-1,0,0,0,0,-1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,87,1.333
+female,24,174,84,27.7,unknown,yes,med,white,native,never,14,18,2,0,travel critical,3,0,0,1,0,0,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,78,0.5
+female,45,176,104,33.5,op,yes,med,white,native,never,1,21,5,0,travel non critical,3,0,0,0,0,0,0,-1,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,87,0.5
+female,43,170,98,33.9,bn,yes,med,white,native,never,5,10,3,0,travel critical,3,0,1,1,0,0,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,54,0.5
+female,45,164,74,27.5,ap,yes,high,white,native,never,12,1,2,0,stopped,4,0,2,2,0,2,2,-2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0.579
+male,31,182,78,23.5,ap,yes,high,white,native,never,1,10,3,0,travel critical,3,0,1,1,0,1,1,1,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,73,0.5
+female,39,176,76,24.5,on,yes,high,hispanic,native,never,5,6,4,0,stopped,3,0,1,1,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,0.5
+male,18,174,90,29.7,on,yes,med,white,native,never,-1,7,5,0,stopped,3,0,1,-1,0,2,1,-1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,0.5
+male,58,188,114,32.2,an,yes,med,white,native,never,7,5,3,0,never,4,0,1,1,0,1,1,1,4,0,0,1,0,1,0,0,1,0,0,0,0,0,0,28.999,18.666
+male,26,184,72,21.2,op,no,gov,white,native,yes,-1,4,2,0,never,4,0,1,1,0,1,1,0,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,26,7.758
+female,48,166,62,22.4,op,no,high,white,native,never,0,1,2,0,never,4,0,1,1,0,1,1,1,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,17,0.821
+female,52,164,114,42.3,bn,yes,med,white,native,quit,0,21,2,0,travel critical,4,0,1,1,0,1,1,1,4,1,1,0,0,0,0,0,0,0,0,1,0,0,1,95,9.93
+female,50,168,58,20.5,ap,yes,high,white,native,never,5,3,4,0,never,4,0,1,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0.88
+male,36,188,118,33.3,ap,no,low,white,native,yes,1,16,2,0,travel critical,4,0,0,0,0,0,0,0,4,0,0,0,0,0,1,0,0,0,0,0,1,0,0,72,15.747
+female,26,164,94,34.9,ap,yes,med,white,native,yes,1,5,4,0,stopped,3,0,1,1,0,1,1,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0.5
+female,44,170,98,33.9,ap,yes,high,white,native,never,3,6,4,0,stopped,4,0,1,1,0,1,1,0,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,32,1.716
+female,57,170,90,31.1,op,yes,med,white,native,never,1,4,3,0,stopped,4,0,1,1,0,0,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0.881
+female,48,162,120,45.7,unknown,yes,med,white,native,quit,-1,4,2,0,stopped,4,0,1,2,0,2,2,-1,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,26,8.02
+male,44,192,104,28.2,unknown,yes,med,white,native,yes,14,7,4,0,travel critical,2,0,1,1,0,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,0.544
+female,49,168,72,25.5,op,yes,low,white,native,never,13,7,2,0,never,4,0,1,2,0,1,1,-2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0.5
+male,43,180,106,32.7,unknown,yes,med,white,native,never,9,21,2,0,travel critical,3,0,1,1,0,1,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,87,0.5
+female,30,120,56,38.8,ap,yes,low,white,immigrant,never,5,4,1,2,never,3,0,1,1,0,1,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0.5
+male,45,184,136,40.1,ap,yes,med,white,native,never,-1,10,2,0,stopped,3,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42,0.5
+female,80,158,64,25.6,bn,yes,med,white,native,never,0,3,1,0,never,5,0,1,0,0,1,1,0,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,25,16.727
+female,27,172,96,32.4,unknown,yes,med,white,native,quit,7,15,2,0,travel non critical,4,0,1,0,0,1,0,-1,4,0,0,1,0,0,0,0,0,0,0,0,0,1,0,69,0.952
+male,52,176,92,29.7,bp,yes,high,white,native,quit,8,9,2,9,travel critical,3,0,1,0,0,1,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53,1.838
+female,24,152,44,19,op,no,low,white,native,yes,1,21,5,0,travel non critical,4,0,1,2,0,0,2,2,5,0,0,0,0,0,0,0,0,0,0,0,1,1,0,85,0.98
+female,30,174,76,25.1,on,yes,med,white,native,yes,2,5,2,2,stopped,2,0,0,0,0,0,0,-1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0.5
+female,31,160,100,39,op,no,med,white,native,never,1,3,3,0,never,3,0,2,2,0,2,2,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0.5
+female,38,172,122,41.2,unknown,yes,med,white,native,never,-1,21,2,0,travel critical,5,0,2,2,0,2,2,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,89,0.5
+female,54,156,62,25.4,unknown,yes,med,white,native,quit,5,4,2,0,home,5,0,2,2,0,0,0,-2,5,0,0,0,0,0,0,0,1,1,0,0,0,0,0,21,18.744
+female,54,170,90,31.1,op,yes,high,white,immigrant,never,14,15,2,0,never,2,0,1,0,0,1,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61,0.509
+female,40,158,70,28,unknown,yes,gov,white,native,quit,2,3,4,0,stopped,3,0,1,1,0,1,1,0,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,23,7.323
+female,37,178,100,31.5,op,yes,high,white,native,never,5,0,5,0,home,4,0,1,1,0,0,0,-1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0.5
+female,40,176,130,41.9,unknown,yes,med,white,native,never,3,3,4,0,never,4,0,2,1,0,2,2,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0.5
+female,59,166,58,21,bp,yes,high,white,native,never,1,5,2,0,stopped,3,0,2,2,0,1,2,0,5,0,0,0,1,0,0,0,0,0,0,1,0,0,0,27,24.725
+male,38,192,98,26.5,unknown,yes,med,white,native,never,-1,4,3,0,stopped,4,0,2,1,0,1,1,-1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0.5
+male,14,174,72,23.7,op,yes,high,white,native,never,-1,11,4,0,stopped,3,0,1,2,0,1,1,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0.5
+male,33,184,90,26.5,unknown,no,med,white,native,quit,-1,0,2,0,never,3,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0.5
+female,72,164,114,42.3,on,yes,med,white,native,never,-1,1,1,0,never,2,0,2,1,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,2.346
+female,45,166,58,21,unknown,yes,high,white,native,never,7,20,4,0,travel non critical,1,0,1,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,86,0.5
+female,40,164,80,29.7,ap,yes,med,white,native,yes,10,21,2,0,travel critical,3,0,1,2,0,0,1,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,89,0.5
+female,54,180,94,29,op,yes,med,white,native,yes,14,10,4,0,travel critical,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54,0.657
+female,46,160,68,26.5,unknown,yes,high,white,native,quit,2,9,7,0,never,4,0,1,1,0,1,0,-2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41,0.5
+female,59,156,92,37.8,ap,yes,high,white,native,never,9,21,3,0,travel critical,4,0,1,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,87,1.506
+female,44,184,86,25.4,unknown,yes,high,white,native,never,7,1,2,0,home,5,0,2,2,0,2,2,2,5,0,0,1,0,0,0,0,0,1,0,0,0,0,0,15,8.51
+female,40,168,86,30.4,ap,yes,high,white,native,never,2,6,3,0,never,4,0,1,1,0,1,1,0,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,32,1.461
+female,30,152,60,25.9,unknown,yes,low,white,native,quit,7,3,4,0,stopped,3,0,1,1,0,2,2,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0.5
+female,30,178,120,37.8,unknown,yes,med,white,native,yes,0,20,4,0,travel critical,3,0,0,1,0,1,-1,0,4,0,0,1,0,0,1,0,0,0,0,0,0,0,0,84,10.77
+female,36,170,66,22.8,bp,yes,high,white,native,quit,7,2,2,0,stopped,3,0,1,1,0,0,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0.5
+female,36,166,82,29.7,unknown,yes,med,white,native,never,5,5,5,0,stopped,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28.999,0.5
+female,39,166,86,31.2,op,yes,med,white,native,yes,0,6,6,0,home,3,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0.5
+female,57,172,118,39.8,op,yes,med,white,native,quit,1,6,2,0,never,4,0,2,1,0,1,1,1,4,0,0,0,0,0,1,0,0,1,0,0,0,0,0,32,13.196
+female,34,166,70,25.4,an,yes,med,white,native,yes,4,4,2,0,stopped,3,0,1,1,0,0,1,-1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,0.5
+female,14,152,52,22.5,abp,no,med,white,native,yes,2,5,4,0,stopped,3,0,0,1,0,1,1,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28.999,0.5
+male,50,174,72,23.7,unknown,yes,high,white,native,never,2,2,3,0,home,4,0,1,1,0,1,0,2,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,23,9.158
+male,56,186,102,29.4,unknown,yes,med,white,native,never,2,1,2,0,stopped,5,0,2,2,0,1,1,2,4,0,0,0,0,0,0,0,0,1,0,1,0,0,0,17,20.182
+male,9,174,106,35,op,yes,med,white,native,quit,0,2,2,0,home,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0.5
+female,21,168,66,23.3,ap,yes,low,white,native,quit,7,5,5,0,stopped,4,0,1,1,0,-1,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28.999,0.5
+male,67,180,90,27.7,on,no,low,white,native,quit,-1,1,2,0,stopped,2,0,1,1,0,1,1,-1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,1.673
+female,29,166,64,23.2,unknown,yes,low,white,native,never,1,4,4,0,stopped,4,0,1,2,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,28,7.233
+female,25,164,52,19.3,bn,yes,med,white,native,quit,0,4,1,0,stopped,4,0,1,1,0,1,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,0.5
+male,58,182,112,33.8,ap,yes,med,white,native,quit,0,10,2,0,travel non critical,3,0,1,1,0,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,57.999,1.028
+female,21,166,76,27.5,unknown,no,low,white,native,quit,-1,5,2,0,stopped,4,0,1,1,0,1,1,1,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,28.999,0.946
+female,24,168,78,27.6,unknown,no,low,white,native,quit,2,20,5,0,travel critical,4,0,0,1,0,1,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,84,0.5
+female,39,160,62,24.2,ap,no,med,white,native,never,0,3,4,0,home,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0.5
+male,32,170,58,20,ap,no,med,white,native,yes,7,5,5,0,travel non critical,3,0,1,1,0,1,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,41,0.5
+male,52,164,108,40.1,unknown,no,med,white,native,quit,-1,3,3,0,never,3,0,1,1,0,1,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,1.659
+female,37,172,60,20.2,on,yes,med,hispanic,native,quit,-1,1,2,0,never,3,0,1,1,0,1,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0.5
+female,31,172,100,33.8,bp,no,med,white,immigrant,never,-1,21,1,15,stopped,3,0,1,1,0,1,0,1,3,0,0,1,0,0,0,0,0,0,0,0,1,0,0,79,2.493
+male,34,184,82,24.2,an,no,med,other,immigrant,never,-1,20,1,0,travel critical,3,0,1,1,0,1,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,84,0.5
+female,42,154,82,34.5,unknown,yes,med,white,native,never,2,2,1,0,travel non critical,3,0,2,2,0,2,2,2,5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,28,0.5
+female,26,156,54,22.1,unknown,yes,low,hispanic,native,never,1,8,2,0,travel critical,4,0,1,2,0,2,2,-1,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,46,9.018
+female,45,174,114,37.6,op,yes,high,white,immigrant,never,0,3,4,0,never,3,0,1,1,0,1,1,2,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,23,1.281
+female,24,174,96,31.7,on,yes,low,white,native,never,14,2,2,0,travel non critical,4,0,1,1,0,1,1,1,4,0,0,0,0,0,1,0,0,0,0,0,0,1,0,30,6.458
+female,41,156,52,21.3,an,no,low,white,immigrant,never,1,6,2,1,home,4,0,1,1,0,1,-2,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0.5
+female,31,164,72,26.7,ap,yes,med,white,native,never,4,21,5,0,travel critical,3,0,1,1,0,1,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,87,0.5
+female,34,166,88,31.9,ap,yes,med,white,native,never,0,8,5,0,travel non critical,3,0,0,1,0,0,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,50,0.5
+female,61,160,76,29.6,ap,yes,med,white,native,yes,14,1,2,0,stopped,4,0,0,1,0,1,1,1,3,0,0,0,0,0,0,0,0,0,0,1,1,0,0,19,13.785
+female,36,164,60,22.3,on,yes,low,white,native,quit,3,2,2,0,stopped,4,0,1,1,0,1,1,1,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,22,0.775
+female,24,176,114,36.8,on,yes,med,white,native,never,0,3,3,0,never,5,0,2,2,0,2,2,2,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,21,6.759
+female,33,158,90,36,bp,yes,med,white,native,yes,0,5,4,0,never,4,0,2,2,0,2,2,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0.5
+other,50,136,90,48.6,unknown,yes,med,white,native,yes,5,1,1,0,stopped,4,0,1,1,0,1,1,1,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,17,2.618
+female,43,168,62,21.9,unknown,yes,low,mixed,native,never,3,0,1,0,never,4,0,2,2,0,2,2,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0.5
+male,31,176,60,19.3,unknown,yes,low,white,native,never,5,10,2,0,travel non critical,3,0,1,1,0,1,1,1,5,0,0,0,0,0,1,0,1,0,0,0,0,1,0,52,24.338
+male,54,176,68,21.9,op,yes,high,white,native,yes,7,21,2,0,travel critical,4,0,1,1,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,87,0.945
+female,37,156,58,23.8,op,yes,low,hispanic,native,quit,3,5,3,0,home,3,0,1,1,0,1,1,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0.5
+female,47,168,90,31.8,op,yes,med,white,native,never,-1,2,3,0,stopped,5,0,2,2,0,2,2,1,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,20,5.963
+female,39,158,70,28,unknown,yes,low,black,native,yes,14,10,6,0,travel critical,2,0,-1,-1,0,-2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57.999,0.5
+male,50,176,88,28.4,ap,yes,high,white,native,quit,3,9,4,0,travel non critical,4,0,1,2,0,1,2,2,5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,49,1.765
+male,38,166,62,22.4,unknown,no,low,white,native,yes,9,2,3,0,stopped,3,0,1,0,0,1,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0.5
+female,44,164,88,32.7,abp,no,med,white,native,never,3,14,7,0,home,3,0,1,1,0,1,0,-1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57.999,0.5
+female,44,166,114,41.3,ap,no,med,white,native,quit,2,2,3,0,never,4,0,1,1,0,0,0,1,5,0,0,1,0,0,0,0,0,1,0,1,0,0,0,18,21.322
+female,20,152,48,20.7,unknown,yes,med,white,native,never,3,1,2,0,stopped,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0.5
+female,25,172,76,25.6,unknown,yes,low,white,native,yes,4,21,2,0,travel critical,2,0,0,1,0,0,1,-1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91,0.5
+female,56,164,62,23,bp,yes,med,white,native,never,12,6,2,0,stopped,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,1.09
+male,43,182,92,27.7,unknown,yes,high,white,native,never,1,2,2,0,never,4,0,2,1,0,2,2,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0.5
+female,46,176,100,32.2,on,yes,med,white,native,never,-1,3,4,0,travel critical,3,0,1,0,0,1,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0.5
+female,46,154,104,43.8,ap,yes,high,white,native,yes,-1,12,6,0,travel critical,4,0,1,1,0,1,1,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,57.999,0.568
+female,60,158,70,28,op,no,med,black,immigrant,never,2,2,3,0,never,4,0,1,2,0,1,1,1,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,18,2.348
+female,60,172,110,37.1,abn,yes,med,white,native,never,0,18,8,0,travel critical,4,0,1,1,0,1,0,1,4,0,0,0,0,0,1,0,0,0,0,1,1,0,1,78,20.485
+male,50,168,72,25.5,op,yes,high,white,native,never,0,20,4,0,travel non critical,1,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,84,0.5
+female,39,160,62,24.2,on,yes,med,white,native,never,2,4,2,0,stopped,2,0,1,1,0,1,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,0.5
+female,36,158,64,25.6,op,yes,high,white,native,never,10,5,2,0,travel critical,5,0,2,1,0,2,2,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,37,0.5
+female,21,164,82,30.4,op,no,low,hispanic,native,quit,1,8,10,0,stopped,3,0,0,1,0,1,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42,0.5
+female,24,184,74,21.8,on,yes,med,white,native,never,2,4,4,0,stopped,4,0,1,1,0,1,1,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0.5
+female,40,174,136,44.9,ap,yes,low,white,native,yes,0,7,4,0,travel non critical,3,0,0,1,0,0,1,1,3,0,1,0,0,0,0,0,0,0,0,1,1,1,0,67,12.532
+female,35,172,92,31,ap,yes,med,white,native,never,-1,2,2,0,never,4,0,1,1,0,1,1,1,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,20,1.216
+female,43,158,62,24.8,unknown,yes,high,white,native,yes,3,3,2,0,stopped,4,0,1,1,0,1,1,1,3,0,0,0,0,0,1,0,0,0,0,1,0,0,0,25,17.647
+male,27,176,60,19.3,unknown,yes,low,white,native,never,-1,6,2,0,never,4,0,1,1,0,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34,0.5
+female,75,168,106,37.5,op,yes,high,white,native,quit,-1,1,2,0,home,4,0,1,1,0,1,1,-1,4,0,0,1,0,0,0,0,0,0,0,1,0,0,0,17,9.143
+female,42,180,88,27.1,ap,no,med,white,native,never,0,10,5,0,travel non critical,2,0,-1,1,0,0,1,-2,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,57.999,0.5
+female,50,168,80,28.3,op,yes,low,white,native,quit,1,5,2,0,home,1,0,0,2,0,0,2,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28.999,1.019
+female,33,162,62,23.6,ap,yes,med,white,native,never,10,1,2,0,stopped,4,0,1,1,0,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0.5
+female,30,154,52,21.9,bp,yes,high,white,native,never,-1,2,4,0,never,4,0,1,1,0,1,1,-1,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,20,7.269
+female,50,166,50,18.1,an,yes,med,white,native,quit,1,10,4,0,never,3,0,1,1,0,1,1,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42,0.5
+female,33,158,46,18.4,unknown,no,med,mixed,native,never,3,5,3,0,travel critical,4,0,1,1,0,1,0,-2,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,43,1.073
+male,34,178,78,24.6,unknown,yes,med,white,native,never,13,10,4,0,travel critical,3,0,1,1,0,-1,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,56,0.5
+female,43,172,66,22.3,op,yes,med,white,native,never,12,7,4,0,stopped,3,0,1,1,0,1,1,-2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0.5
+female,35,168,110,38.9,unknown,yes,med,white,native,yes,6,4,2,0,stopped,4,0,1,1,0,1,-1,-1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0.5
+male,57,180,114,35.1,bp,no,low,black,native,never,0,5,6,0,travel critical,4,0,1,0,0,1,1,-1,4,0,0,1,0,0,0,0,0,0,0,1,0,0,0,39,13.276
+male,27,176,70,22.5,unknown,no,low,white,native,yes,4,10,3,3,stopped,3,0,1,1,0,1,1,-1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41,0.5
+female,49,164,64,23.7,ap,yes,med,white,native,never,-1,6,4,0,stopped,4,0,1,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0.5
+female,57,164,106,39.4,on,yes,low,white,native,never,0,3,2,0,never,3,0,1,1,0,1,1,1,4,0,0,1,0,0,0,0,0,0,0,0,1,0,0,23,2.515
+female,20,158,48,19.2,unknown,no,high,white,native,never,0,1,2,0,never,4,0,1,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0.5
+male,22,166,66,23.9,ap,yes,med,hispanic,immigrant,yes,0,3,1,0,home,4,0,1,2,0,1,1,1,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0,23,3.999
+female,39,182,104,31.3,unknown,yes,med,white,native,never,5,6,1,0,travel critical,3,0,1,1,0,0,0,1,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,42,1.057
+male,32,178,68,21.4,unknown,no,low,white,native,quit,12,21,4,0,travel critical,3,0,0,1,0,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,89,0.5
+female,70,172,64,21.6,ap,yes,med,white,native,quit,-1,1,2,0,stopped,4,0,1,1,0,1,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,1.976
+male,25,168,62,21.9,ap,no,med,hispanic,native,yes,0,5,6,0,never,4,0,2,0,0,1,1,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0.5
+female,48,172,140,47.3,an,yes,med,white,native,never,3,4,4,0,stopped,4,0,1,1,0,1,1,-1,4,0,0,1,0,0,0,0,0,1,0,0,1,0,0,26,12.583
+female,38,166,100,36.2,an,yes,med,white,native,yes,3,8,1,0,never,3,0,1,0,0,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0.5
+male,43,168,96,34,on,yes,low,white,native,never,2,21,3,0,travel critical,4,0,1,1,0,1,1,0,4,0,0,0,0,0,1,0,0,1,0,1,0,0,0,87,21.459
+male,35,182,82,24.7,op,yes,high,white,native,never,14,20,3,0,travel critical,4,0,1,1,0,1,1,1,5,0,1,0,0,0,0,0,0,0,0,0,0,0,1,95,0.5
+male,53,172,78,26.3,unknown,yes,high,white,native,never,-1,7,6,0,stopped,3,0,1,1,0,0,0,-2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,1.63
+male,34,174,92,30.3,op,yes,med,white,native,never,-1,10,3,0,never,5,0,2,2,0,2,2,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42,0.5
+female,47,156,104,42.7,ap,yes,med,white,native,quit,-1,1,2,0,never,4,0,1,1,0,1,1,1,3,0,0,1,0,0,1,1,1,0,0,1,0,0,0,19,65.154
+female,30,164,70,26,op,no,low,hispanic,immigrant,yes,9,21,2,0,travel critical,4,0,2,2,0,2,2,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,87,0.5
+female,26,156,54,22.1,unknown,yes,med,mixed,native,never,1,3,2,0,stopped,4,0,1,1,0,1,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0.5
+male,58,178,86,27.1,on,yes,high,white,native,never,13,2,3,0,never,1,0,2,2,0,2,2,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1.105
+male,50,176,98,31.6,on,yes,high,white,native,quit,2,3,3,0,stopped,4,0,2,2,0,2,2,2,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,21,8.233
+female,21,176,154,49.7,unknown,yes,low,white,native,yes,0,20,2,0,travel critical,3,0,1,0,0,2,2,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,86,0.5
